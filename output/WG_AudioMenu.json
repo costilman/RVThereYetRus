@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "48A753124F684392DB88738FC5ADEA63",
+    "Hash": 2177459268,
+    "SourceString": "Voice Level",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F241E5AF49C00221B9937FB0EEC403DC",
+    "Hash": 233489091,
+    "SourceString": "Push To Talk",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2E5337D744D3AB9B12BE66B2C22BE256",
+    "Hash": 2813060815,
+    "SourceString": "Toggle To Talk",
+    "LocalizedString": ""
+  }
+]

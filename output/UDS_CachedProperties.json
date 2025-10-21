@@ -1,0 +1,716 @@
+[
+  {
+    "Namespace": "",
+    "Key": "3295D33046468B13EB99E0B27329C25F",
+    "Hash": 4131159828,
+    "SourceString": "Cloud Wisps Opacity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "052B0FDF4DCD52358CAD36A85C56FBFC",
+    "Hash": 4284932260,
+    "SourceString": "Moon Light Intensity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7D13A8DF4A36AE5583F37593565F31A3",
+    "Hash": 1680271941,
+    "SourceString": "Moon Scale",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8FD581054058650396A49A897D915F97",
+    "Hash": 260554886,
+    "SourceString": "Moon Phase Angle",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6006B548437615C722DCAF985E9A4EFB",
+    "Hash": 1267753441,
+    "SourceString": "Moon Material Intensity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "12237A5C424B61ADDB3446B281AF44C4",
+    "Hash": 1579085350,
+    "SourceString": "Moon Lit Percent",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5B9C681142294AD43B71729AD2A83FB4",
+    "Hash": 1898160514,
+    "SourceString": "Moon Light Material Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "022CE559454B414210D0968D998DD74A",
+    "Hash": 1556266313,
+    "SourceString": "Stars Orbit",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "71A9352B45F7AA6BEFABE9B5E8A635B5",
+    "Hash": 495104763,
+    "SourceString": "Stars Orientation",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A4F294D54DB497EB4D5769B0FBF97EE2",
+    "Hash": 617589079,
+    "SourceString": "Sun Root Vector",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FB2306DC480BDCB7C6006D9AA639E9D9",
+    "Hash": 3099778587,
+    "SourceString": "Moon Root Vector",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AA18D2864BF5604FB5C3E0A6848640E7",
+    "Hash": 167611079,
+    "SourceString": "Sun Position Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "861940244F30CE00B4D63781509D72C4",
+    "Hash": 348619794,
+    "SourceString": "Cloud Shadows Light Vector",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DE7E7704413B81B6B798D2A0D93223AB",
+    "Hash": 3386901059,
+    "SourceString": "Cloud Shadows Cancel",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D2EB0E1A4452D01C92AB5FB8F61E4A88",
+    "Hash": 3157426466,
+    "SourceString": "Moon X Axis Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F3D3939F4842F2D2CD6513A1754A9816",
+    "Hash": 562701889,
+    "SourceString": "Real Moon Phase",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C3B8DE2643BA923087876E842A5E08CD",
+    "Hash": 1243239511,
+    "SourceString": "Shading Offset Vector",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "020C27014722E53C59CFD2ADB9C76231",
+    "Hash": 246177733,
+    "SourceString": "Night Sky Glow Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3CBF978E485C7FA248102DAA621735CB",
+    "Hash": 3742455151,
+    "SourceString": "Sky Overall Intensity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "44B26B304E2BD109D283B4A314DCC61D",
+    "Hash": 140941346,
+    "SourceString": "Sky Lit Intensity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0B5D19AC4C6D73A7AF3E39B5A9BE3F77",
+    "Hash": 3969799883,
+    "SourceString": "Sky Saturation",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FD589ABE4A929470EAA4349EA491D306",
+    "Hash": 654083296,
+    "SourceString": "Exposure Bias",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AB750DB14AACA498DF632895F410FBE0",
+    "Hash": 2061099299,
+    "SourceString": "Sky Base Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FE9116D9430E58BB081C67B791982C94",
+    "Hash": 2150093260,
+    "SourceString": "Cloud Light Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "09C4C30E4FCA963F6B5E978D731F8EA8",
+    "Hash": 2024795640,
+    "SourceString": "Cloud Dark Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6FEDB6AF4A0A335E64A9138D7BC7EF96",
+    "Hash": 4020378796,
+    "SourceString": "Sun Glow Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EFB0EF7F47D7F3ADB0016C98DD1FC7ED",
+    "Hash": 2783094913,
+    "SourceString": "Moon Scattering Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F4390EC44AD447759174379443583A90",
+    "Hash": 4158565885,
+    "SourceString": "Sun Disk Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "016969D84A537B1597923DBC98D90D74",
+    "Hash": 3906029462,
+    "SourceString": "Sun Radius",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C28BCB654ACA5E811C7F2FB2B4554717",
+    "Hash": 1789688096,
+    "SourceString": "Stars Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "740341A64D81547F7CBAF194F17A007C",
+    "Hash": 1989919993,
+    "SourceString": "Aurora Intensity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6443BC3A4892B243EAAD6CA53DEA434B",
+    "Hash": 104606497,
+    "SourceString": "Shine Intensity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7C2625624E7626B3396D09A35CBEBB8A",
+    "Hash": 1890135386,
+    "SourceString": "Sun Highlight Radius",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "63E118AE48F08E93DD476EBC45915A8E",
+    "Hash": 315211736,
+    "SourceString": "Sun Highlight Intensity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8655C514488C0AFBC22BF290B7006D0B",
+    "Hash": 3528088141,
+    "SourceString": "Sun Light Intensity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F8FB4181476A6D77C1ACEEBB0DB0F9D0",
+    "Hash": 934658478,
+    "SourceString": "Sun Light Casts Shadows",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9E63B1F14461ABDBCE2D1A807A559F09",
+    "Hash": 662732824,
+    "SourceString": "Sun Specular Scale",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CBD6C8944B073DCF417A0188E3C263A3",
+    "Hash": 1395506050,
+    "SourceString": "Sun Disabled Brightness",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F0374069409D3A090626E2B35E115942",
+    "Hash": 1665347410,
+    "SourceString": "Sun Light Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "89335A8A40098C7EE48494BF7BFB9CA2",
+    "Hash": 4057339314,
+    "SourceString": "Sun Light Source Angle",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A6FC19D341AC2B79AA84A6A5256118ED",
+    "Hash": 3171218416,
+    "SourceString": "Fog Directional Inscattering Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "16831CB745520D5525EF5E967BF8998D",
+    "Hash": 539208785,
+    "SourceString": "Fog Inscattering Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8C80E9BA46256CE68913A0B8FBC79DD7",
+    "Hash": 2351205564,
+    "SourceString": "Sky Ambient Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9F06468A4B4966C2E6439AB494DFDEF2",
+    "Hash": 2129188726,
+    "SourceString": "Fog Density",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "54DE891C4DE46692DB5887A866F84D9E",
+    "Hash": 1652984979,
+    "SourceString": "Fog Sky Atmosphere Contribution",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C6B3E99F42586B76F71CD8B48DA882C9",
+    "Hash": 3021824227,
+    "SourceString": "Fog Height Falloff",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0E94B4044CF21A3FDF094ABB8E3CB841",
+    "Hash": 3802807450,
+    "SourceString": "Fog Start Distance",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2B80F75045031471F705F594E566CACF",
+    "Hash": 3378091024,
+    "SourceString": "Ambient Fog Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1D169206448FEB7B122836A206C5EC1F",
+    "Hash": 3019374169,
+    "SourceString": "Filtered Moon Light Intensity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AE646AD04751AF48908694BC5F3D5C9C",
+    "Hash": 4283324446,
+    "SourceString": "Moon Light Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E7B796EF48CA1602027BF3BC2B30BA8E",
+    "Hash": 2182381965,
+    "SourceString": "Moon Casting Shadows",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1EEC4C204CA478F4C56B1EA218E7473C",
+    "Hash": 3817187926,
+    "SourceString": "Moon Light Specular Scale",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "04CE80814C9EEAA8DA38FBBC4A514E89",
+    "Hash": 3205598310,
+    "SourceString": "Moon Light Source Angle",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "631475494865C6ABB21BB2A211C4F45C",
+    "Hash": 752406494,
+    "SourceString": "Sky Light Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E06B7B124D16555DEC8AF98E6963C093",
+    "Hash": 354975188,
+    "SourceString": "Sky Light Intensity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "94E02D954A28A9682CD698BB6EC1F7D2",
+    "Hash": 2518045365,
+    "SourceString": "Sky Light Lower Hemisphere Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A02335BD4B845BD235D8F9A6EFC1DC12",
+    "Hash": 2287682892,
+    "SourceString": "Sky Atmosphere Luminance",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C3A4360545A0D2DC65587A89409C054B",
+    "Hash": 1298844248,
+    "SourceString": "Mie Anisotropy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9EF4D73345E3CD2BE34109A02843B198",
+    "Hash": 3179347285,
+    "SourceString": "Mie Scattering Scale",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "240DB5CD484ED0C173BF7FA8A2115373",
+    "Hash": 2289095689,
+    "SourceString": "Rayleigh Scattering Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6D09C03B4BC0EF8F89E83095BD84182A",
+    "Hash": 891360140,
+    "SourceString": "Overcast Turbulence Strength",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D98029C440446076E4449CA0DDC8AAD6",
+    "Hash": 80342462,
+    "SourceString": "Volumetric Cloud Albedo",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7586716B4509E62A85293D9B35C70FED",
+    "Hash": 4267476971,
+    "SourceString": "Volumetric Cloud Emissive Top",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "39B7E32140DC890BC24FC4B2F6C73619",
+    "Hash": 498629107,
+    "SourceString": "Volumetric Cloud Emissive Bottom",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9FDCD2D445788FE444E87386FA06E24D",
+    "Hash": 1158532327,
+    "SourceString": "Volumetric Cloud Max Trace Distance",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "325DF0014D861A038FB09FBC647B0A41",
+    "Hash": 2333026028,
+    "SourceString": "Cloud Fog Post Process Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2AB304DD4CAB72E5CD8056AED96AB1E1",
+    "Hash": 4211471548,
+    "SourceString": "Volumetric Cloud Density",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C34E8C7A42964BB75A8AB0A5659BA4D2",
+    "Hash": 68043481,
+    "SourceString": "Extinction Scale Top",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F437C4EE44DD8EFB69AC45B99FEA1AFA",
+    "Hash": 3014757337,
+    "SourceString": "Multiscattering Occlusion",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2FE4159E422F43672878A5B09C969212",
+    "Hash": 3268817701,
+    "SourceString": "Macro Variation",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FF082B9941F79DFF77DAF4986C8D8138",
+    "Hash": 1797315898,
+    "SourceString": "Volumetric Cloud Lerp to Simplified",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8F942F1F4B242FE20B05A882C4CC35B2",
+    "Hash": 2654743627,
+    "SourceString": "Static Clouds Lighting Mask",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "263B3A9F4BEF7DBA850403A37BD63A09",
+    "Hash": 2757564187,
+    "SourceString": "Volumetric Cloud Floor Variation Clear",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0E6138D748AFB99A7440059CF95147E1",
+    "Hash": 95849290,
+    "SourceString": "Volumetric Cloud Floor Variation Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C7B32A2C42AC8B189C7B0F9E567FC606",
+    "Hash": 117147796,
+    "SourceString": "Sky Material Contrast Midpoint",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "20DF7D034B9226C1E5B143A30743B359",
+    "Hash": 522636558,
+    "SourceString": "Cloud Shadow Trace Distance",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AFA73D88445F3CC4C84027BDFA7968A3",
+    "Hash": 479342949,
+    "SourceString": "Volumetric Cloud View Sample Scale",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7D6D92874D5733747AC0C19F5BFC4596",
+    "Hash": 3099877504,
+    "SourceString": "Directional Inscattering Exponent",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "247D0ED840161B1F3C3720A106DDCD82",
+    "Hash": 1143178705,
+    "SourceString": "Cloud Wisps Gradient Vector",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "656DCAB6407C87781B33988C9E567655",
+    "Hash": 1655321886,
+    "SourceString": "Space Layer Brightness",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5610728E4EE3057A873B8C80246C6DA9",
+    "Hash": 3663516825,
+    "SourceString": "Solar Eclipse Tint",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "98348C224C37B3073055A4A5B4363336",
+    "Hash": 2587680121,
+    "SourceString": "Volumetric Cloud Multiscattering Phase 1",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A153B15A40DE81C9C24E26B138A42902",
+    "Hash": 3132287534,
+    "SourceString": "Sun Scattering Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6A083D3E4EB88157AEDBBFA38E7EF9C2",
+    "Hash": 2551255989,
+    "SourceString": "Vol Cloud Inner Emit Limit",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8AE2B4DA41841B517F9F38BE3D6E0161",
+    "Hash": 2428523889,
+    "SourceString": "Local Cloud Coverage",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F421CE2C45706AAD82515BB0270FC9EE",
+    "Hash": 746476344,
+    "SourceString": "Sky Atmo Absorption Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B6069CE34981244AE59752B742BD53E9",
+    "Hash": 2552906749,
+    "SourceString": "Cloud Wisps Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "42C87A4548437A0C5D702A90424C4391",
+    "Hash": 1809866477,
+    "SourceString": "Multiscattering Intensity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "99F598F94D344EEBC5E37F8931F2FAC0",
+    "Hash": 919946634,
+    "SourceString": "Volumetric Cloud Floor Variation Cloudy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "243F6D6147681C8874335F8864BDDD7E",
+    "Hash": 620625634,
+    "SourceString": "Volumetric Cloud Light Rays Strength",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1C16570647E686F2B38EBCBE98FBC324",
+    "Hash": 1483075518,
+    "SourceString": "Volumetric Cloud Light Rays Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C837B4524289D7D683FAE896F1A45DB4",
+    "Hash": 2451105085,
+    "SourceString": "Volumetric Cloud Sky Atmo Contribution",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "758157AA4740B37C8646F89DBED7EE13",
+    "Hash": 1028066550,
+    "SourceString": "Static Clouds Tint Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EC5C1781469C7E78404B81B15BF8E011",
+    "Hash": 2700439140,
+    "SourceString": "Static Clouds Shadow Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E918A216422FCE73B0B4659B31BBCEC3",
+    "Hash": 419569861,
+    "SourceString": "Volumetric Fog Albedo",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ADB6D2104401495B9CB5B6B823E27BB6",
+    "Hash": 3070071922,
+    "SourceString": "Time of Day Offset Speed",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6FB535D741776E4911238E961605854D",
+    "Hash": 2085647782,
+    "SourceString": "High Frequency Noise Amount",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B4EA133E4E8046CD6B48E3ACC6D3CF9C",
+    "Hash": 3368947529,
+    "SourceString": "Sun Volumetric Scattering Intensity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BAF33F8249ED170CFE7FFDBE1C877D3C",
+    "Hash": 737687600,
+    "SourceString": "Moon Volumetric Scattering Intensity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4034DF4F4B6B7287FC98F9BBCB9621F3",
+    "Hash": 1915919473,
+    "SourceString": "Volumetric Clouds Reflection Density Scale",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "03D920804C572462237E18A2C2F0BB8B",
+    "Hash": 2493228872,
+    "SourceString": "Volumetric Fog Global Mat Extinction",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2A1AD41F4A3770C0557A97A79E43598E",
+    "Hash": 1402003038,
+    "SourceString": "Volumetric Fog Ground Fog Extinction",
+    "LocalizedString": ""
+  }
+]

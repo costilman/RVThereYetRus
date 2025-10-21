@@ -1,0 +1,44 @@
+[
+  {
+    "Namespace": "",
+    "Key": "999AEC3F47238679306134A6AB2EF0C3",
+    "Hash": 109362049,
+    "SourceString": "Eat yellow snow, it might be beer!",
+    "LocalizedString": "Ешьте желтый снег, это может быть пиво!"
+  },
+  {
+    "Namespace": "",
+    "Key": "C88629684EB69DF06A8657840C8ACDA0",
+    "Hash": 2164833108,
+    "SourceString": "If you are not at full health, eat another buger",
+    "LocalizedString": "Если вы не в полном здравии, съешьте еще один бургер."
+  },
+  {
+    "Namespace": "",
+    "Key": "58CD574D43AD28E50DE0FEBE7CE31197",
+    "Hash": 322017865,
+    "SourceString": "Don't forget to bring your bear spray if you're going hiking with your friends",
+    "LocalizedString": "Не забудьте взять с собой спрей от медведей, если собираетесь в поход с друзьями."
+  },
+  {
+    "Namespace": "",
+    "Key": "C7169DAF43DB88F7023A94BF59A3427D",
+    "Hash": 3082648810,
+    "SourceString": "Simon made me do it!",
+    "LocalizedString": "Это Симон заставил меня это сделать!"
+  },
+  {
+    "Namespace": "",
+    "Key": "4BBEC2FF4BB08E5770CB90ADAA3F2E39",
+    "Hash": 3612367033,
+    "SourceString": "Having problems? Read the vehicles manual",
+    "LocalizedString": "Есть проблемы? Прочитайте руководство по эксплуатации транспортного средства."
+  },
+  {
+    "Namespace": "",
+    "Key": "FF6ADCC94ABBC67F052EA8A7155F8D05",
+    "Hash": 772795707,
+    "SourceString": "Don't know how to drive stick? Then it's time that you learned!",
+    "LocalizedString": "Не умеете водить машину с механической коробкой передач? Тогда самое время научиться!"
+  }
+]

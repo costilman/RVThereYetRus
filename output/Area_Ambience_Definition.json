@@ -1,0 +1,44 @@
+[
+  {
+    "Namespace": "",
+    "Key": "156A809C4CD2562ABA02E084B39E7A68",
+    "Hash": 774126953,
+    "SourceString": "Overworld",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0ACFE2A34D742E5A4CB25F9CEDC64EAD",
+    "Hash": 3146472794,
+    "SourceString": "CaveTunnel",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DF911BBC40B97AC7F4EDB8973B7B4210",
+    "Hash": 1044231708,
+    "SourceString": "Cave",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "43B9C5E84531AE52A52F2A8BF883B02E",
+    "Hash": 3304825737,
+    "SourceString": "Swamp",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "39D898F64B7D04F90DB26A807EA32478",
+    "Hash": 2811997013,
+    "SourceString": "FireZone",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DF2B97EA4CBADB80FAC06C94B93BE93A",
+    "Hash": 3282197166,
+    "SourceString": "DangerZone",
+    "LocalizedString": ""
+  }
+]

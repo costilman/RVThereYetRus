@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "E0D5343941D4C00C06E2ECAE1E820C89",
+    "Hash": 2884783651,
+    "SourceString": "Player Pawn Location",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AFDEFC094EFC0EA2FD2977A0E684FE60",
+    "Hash": 787394982,
+    "SourceString": "Player Camera Location",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1B4CC7A845E154D0C533FB8DFB54B674",
+    "Hash": 52429721,
+    "SourceString": "Custom Location",
+    "LocalizedString": ""
+  }
+]

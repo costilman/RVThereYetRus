@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "407860D54E4FBDED3B058184DB76B054",
+    "Hash": 1477467688,
+    "SourceString": "PlayMusic",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DDAE04B04D0456C68B85A58081114E11",
+    "Hash": 4097902724,
+    "SourceString": "UpdateIndex",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2C7F39B5433303258D42CA9B9EA1D984",
+    "Hash": 2575745108,
+    "SourceString": "StopMusic",
+    "LocalizedString": ""
+  }
+]

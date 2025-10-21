@@ -1,0 +1,72 @@
+[
+  {
+    "Namespace": "",
+    "Key": "AB0C61001B45B977649A34BB46D663C3",
+    "Hash": 1135455467,
+    "SourceString": "Backspace",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "29D0A5581741BD24F979DB827D24D61B",
+    "Hash": 3302924665,
+    "SourceString": "DONE",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1EA750CE884B4B0FB185FFB837FDEA6B",
+    "Hash": 1128053604,
+    "SourceString": "RB",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AE87086B884A71A6768724BDAD69043E",
+    "Hash": 1263529571,
+    "SourceString": "Space",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8CC26502804861539C653EA85AF58B75",
+    "Hash": 505409803,
+    "SourceString": "Left Face Btn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A252B93BBE403659AAA254A8CEF5AA59",
+    "Hash": 2157515019,
+    "SourceString": "Special Right",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2E72CC3E964835D9727AA886896F7836",
+    "Hash": 1236802040,
+    "SourceString": "Clear\nAll",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6108D316564A2C155436DC80C5BE35D1",
+    "Hash": 705534077,
+    "SourceString": "LB",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D88CB1677D4B195AF55DB2B0283312A1",
+    "Hash": 3107913560,
+    "SourceString": "CAPS\nLOCK",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B9F0FE70C948A16C123FCB8F97A02BDA",
+    "Hash": 4139595795,
+    "SourceString": "Top Face Btn",
+    "LocalizedString": ""
+  }
+]

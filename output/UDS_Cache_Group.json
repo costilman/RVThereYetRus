@@ -1,0 +1,72 @@
+[
+  {
+    "Namespace": "",
+    "Key": "A8C7275546B16D65949BEDA6FCFAB8A4",
+    "Hash": 1132150440,
+    "SourceString": "Moon",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5E3F61AC46BEF71823BE9E96E26A8870",
+    "Hash": 196192722,
+    "SourceString": "Fog",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FA909D384DC2F5A8C49EEE828F325731",
+    "Hash": 3151557593,
+    "SourceString": "Sky Atmosphere",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DDA2739D49B4CC1BB9F3F4A9F0543461",
+    "Hash": 3906001669,
+    "SourceString": "Simplified Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7A9F1A984F3BEDBF15E52B8BA6384E22",
+    "Hash": 3880738211,
+    "SourceString": "Sky Material",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9EE27BA4405D4288BC934FAAAA00150C",
+    "Hash": 259608919,
+    "SourceString": "Sun",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "93CCC7424BD2BD2FB2A1C98E9CBA6811",
+    "Hash": 1655916188,
+    "SourceString": "Volumetric Clouds",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "815A44FB4A87437AE480438C9419A3E0",
+    "Hash": 2481569513,
+    "SourceString": "Cloud Shadows",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F5485FDB4FD53A7550739EAECF93C339",
+    "Hash": 2987572545,
+    "SourceString": "Sky Light",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D475EC95442DF36FE7BB348D15F01177",
+    "Hash": 4116552756,
+    "SourceString": "2D Clouds",
+    "LocalizedString": ""
+  }
+]

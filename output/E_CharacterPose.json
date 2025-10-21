@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "A8EA3F08466688F421610F87135041E4",
+    "Hash": 3273620605,
+    "SourceString": "Unarmed",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "69AE02404B7B4644C069C5A664057A29",
+    "Hash": 3665628989,
+    "SourceString": "Rightarm",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D517D1CC4464FA29A0F58E9066C64246",
+    "Hash": 2177732582,
+    "SourceString": "2HObject",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E21B37184F7FD24ADBB40CB978CADC60",
+    "Hash": 2724688072,
+    "SourceString": "Map",
+    "LocalizedString": ""
+  }
+]

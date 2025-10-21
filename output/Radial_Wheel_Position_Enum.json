@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "49FA4BE042A404E55822D8B2CDDDAF20",
+    "Hash": 3191848656,
+    "SourceString": "Center",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0C6B1EF44B83C2A4BBC02B9C4EAAB59E",
+    "Hash": 667937672,
+    "SourceString": "Left",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "55E6907A45E6439593B843AEFA755A66",
+    "Hash": 1334209577,
+    "SourceString": "Right",
+    "LocalizedString": ""
+  }
+]

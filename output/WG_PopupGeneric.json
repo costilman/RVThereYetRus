@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "26281CF04EFD841C92D2F5964386ED7D",
+    "Hash": 1993697830,
+    "SourceString": "Generic text here",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "73FCCC484521BA22B8480A981E88BF6E",
+    "Hash": 1826647123,
+    "SourceString": "Accept",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0F759243451DD724CA2134B31A7F0A62",
+    "Hash": 949252438,
+    "SourceString": "Cancel",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4490F0BE4C1A2902CCDB728E9B1B26CD",
+    "Hash": 1993697830,
+    "SourceString": "Generic text here",
+    "LocalizedString": ""
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "2E8BBAEA4A0B3D44ACFE0F95B1850C8C",
+    "Hash": 829792470,
+    "SourceString": "New Game",
+    "LocalizedString": "Новая игра"
+  },
+  {
+    "Namespace": "",
+    "Key": "87DC201844B41EF212F66F838CD95B1C",
+    "Hash": 438922161,
+    "SourceString": "Game name can't be empty",
+    "LocalizedString": "Название игры не может быть пустым"
+  },
+  {
+    "Namespace": "",
+    "Key": "4C8A788F4F751C2EAB138291B24E5DE7",
+    "Hash": 720763875,
+    "SourceString": "Start Ride",
+    "LocalizedString": "Начать поездку"
+  }
+]

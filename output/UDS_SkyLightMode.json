@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "5EE027F84CAF1D14D01085B1802B1D52",
+    "Hash": 2681609793,
+    "SourceString": "Capture Based",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "01D94B0D44B60376919AA79FC68732CF",
+    "Hash": 1444150598,
+    "SourceString": "Custom Cubemap",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "60411B5A4D10A1A858A5BDAC9035157E",
+    "Hash": 3376278391,
+    "SourceString": "Cubemap with Dynamic Color Tinting",
+    "LocalizedString": ""
+  }
+]

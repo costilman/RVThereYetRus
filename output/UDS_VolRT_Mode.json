@@ -1,0 +1,30 @@
+[
+  {
+    "Namespace": "",
+    "Key": "08B1A9DA46A4BA3B058F93A4F7E96DB7",
+    "Hash": 703757882,
+    "SourceString": "Fidelity + Performance",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F39DCC274F41944748BD14934AE32B95",
+    "Hash": 3750033178,
+    "SourceString": "Mesh Intersections + Fast Movement + Performance",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D98732914357BC662108E68AF6D34D45",
+    "Hash": 1836028508,
+    "SourceString": "Mesh Intersections + Fast Movement + Fidelity",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AE1F8C874FE517CDB29B27827F00FE66",
+    "Hash": 2604596041,
+    "SourceString": "Full Cinematic Quality",
+    "LocalizedString": ""
+  }
+]

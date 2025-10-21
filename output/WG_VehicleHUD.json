@@ -1,0 +1,107 @@
+[
+  {
+    "Namespace": "",
+    "Key": "5DF133F5420627977931438D82F839A7",
+    "Hash": 2799545250,
+    "SourceString": "Front Winch Status",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B6BCA43C43687DA4BA7434B85E803B31",
+    "Hash": 3373311487,
+    "SourceString": "Mode",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D25778E64CB2295E08C3409458ADC86D",
+    "Hash": 1077942325,
+    "SourceString": "R",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A540202A4F0A68DD5D641883F37C9EC9",
+    "Hash": 526210162,
+    "SourceString": "Rear Winch Status",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "74F0D8154634B030510077868BD9C7BF",
+    "Hash": 1519382546,
+    "SourceString": "N",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0F1A10074E4F6A1A5AF8DBA4CDE3011F",
+    "Hash": 1775452376,
+    "SourceString": "1",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E2AE18A240FEE61CEDC0B187F59995F5",
+    "Hash": 2070343478,
+    "SourceString": "2",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C5A6700D4EFF0469247644B16FA2C212",
+    "Hash": 3285878867,
+    "SourceString": "3",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C57F230141D6BD2E5845ECBFCF4BE3AA",
+    "Hash": 3870414735,
+    "SourceString": "5",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "55241D324D2A36DE1427B7BBB5C03AAB",
+    "Hash": 3930706110,
+    "SourceString": "P",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0ADAA7D449385810067012883EDF94A6",
+    "Hash": 1577955562,
+    "SourceString": "4",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "576B669D465775516C1E51B5C40AC782",
+    "Hash": 766292253,
+    "SourceString": "Press Clutch",
+    "LocalizedString": "Сцепление"
+  },
+  {
+    "Namespace": "",
+    "Key": "00E7E4D14E8868BD52A1F28D68902E40",
+    "Hash": 1265417365,
+    "SourceString": "Toogle Park",
+    "LocalizedString": "Ручник"
+  },
+  {
+    "Namespace": "",
+    "Key": "68C1D2BA4E388A8D2C1307BCEABBAEF7",
+    "Hash": 1447644255,
+    "SourceString": "Toogle Lights",
+    "LocalizedString": "Фары"
+  },
+  {
+    "Namespace": "",
+    "Key": "CDB7DB7A4E22959D00D99686CF7A05ED",
+    "Hash": 3260420882,
+    "SourceString": "Honk",
+    "LocalizedString": "Гудок"
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "Namespace": "",
+    "Key": "A1187DC149B9A9212155738F7E395E20",
+    "Hash": 804440964,
+    "SourceString": "Unselected",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1FDD51EA4FE5F099C9BED095E281ECF0",
+    "Hash": 3727122974,
+    "SourceString": "Volumetric Cloud Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FEE2F4A4450F0D494F29ED87DD8337A9",
+    "Hash": 599126681,
+    "SourceString": "Volumetric Cloud Ambient Light (Day)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B625221F427511C6EC46A1BD9B1ADEDB",
+    "Hash": 432629208,
+    "SourceString": "Volumetric Cloud Ambient Light (Dawn/ Dusk)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5CF373AD430FF82C1FB97AA706C7736D",
+    "Hash": 1690625574,
+    "SourceString": "Volumetric Cloud Ambient Light (Night)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DDB6C1A44C379D1AC9A03BB5CC2A2DA5",
+    "Hash": 1008764789,
+    "SourceString": "Cloud Wisps Tint (Day)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5B86B0CA43E5216A8AD3E2B13FD5FFC2",
+    "Hash": 1395580557,
+    "SourceString": "Cloud Wisps Tint (Dawn/ Dusk)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "256216714E0DDD84C2B05291C45BC89D",
+    "Hash": 2716904999,
+    "SourceString": "Cloud Wisps Tint (Night)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E70FFCC74753FEF49941D5920736BCE2",
+    "Hash": 1665347410,
+    "SourceString": "Sun Light Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1DCAB62B4D53E6051F387EBC5E12AB9A",
+    "Hash": 4283324446,
+    "SourceString": "Moon Light Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "13624D0547DFC0B67B6CEBA04052BE0B",
+    "Hash": 2382957655,
+    "SourceString": "Moon Material Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6CFBE91F47A51CBA4D0FEF9841DE662E",
+    "Hash": 4274363410,
+    "SourceString": "Sky Light Color Multiplier (Day)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4AE1BBDF4FDF695BB2339BA5637D3691",
+    "Hash": 1906785001,
+    "SourceString": "Sky Light Color Multiplier (Dawn/ Dusk)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2E0F90B740E57430873484B3C02B7ED5",
+    "Hash": 3411803707,
+    "SourceString": "Sky Light Color Multiplier (Night)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A36FD66340AAFD011DC7199C3C902095",
+    "Hash": 2505590209,
+    "SourceString": "Sky Light Lower Hemisphere Tint (Capture Based)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A85D64D6468157A1316D48A4981384A0",
+    "Hash": 2509335512,
+    "SourceString": "Fog Inscattering Sun",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "84F9A52F4A6E6FB15EB7808C4B634856",
+    "Hash": 1505819453,
+    "SourceString": "Fog Inscattering Moon",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "08A9D0FB462163106F4900A7233B40A8",
+    "Hash": 416808181,
+    "SourceString": "Fog Directional Inscattering",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4AE9B0CF409F58932F33AEA91CAE2625",
+    "Hash": 1648453761,
+    "SourceString": "All Fog Colors Multiplier",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CC5FB95F4A055ECF94A4A6A7D889F891",
+    "Hash": 3509983159,
+    "SourceString": "Dust Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C519FB85489D90348F33969CE94834D9",
+    "Hash": 1569880176,
+    "SourceString": "Rayleigh Scattering Color (Day)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8911E2B24CB085D4B3C040B37FE34DDF",
+    "Hash": 1452502243,
+    "SourceString": "Rayleigh Scattering Color (Dawn/ Dusk)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7BA92C4742920D178496BD837C40D267",
+    "Hash": 2289436400,
+    "SourceString": "Rayleigh Scattering Color (Night)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2B57CDB34232E6FF64277DB6D84B3254",
+    "Hash": 4286091347,
+    "SourceString": "Sunset/ Sunrise Color (Absorption)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "06C54847425D37CA88A2FBA5E8AD8F88",
+    "Hash": 3677338795,
+    "SourceString": "Twilight Color (Absorption)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4AF8986B44A990F3EC35728788DB2DFA",
+    "Hash": 656403573,
+    "SourceString": "Base Sky Color (Day)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FA5114B6408A39BDDCEC06BFE6FCE76F",
+    "Hash": 3589171106,
+    "SourceString": "Base Sky Color (Dawn/ Dusk)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6FC17E1B4CC8F25807BAE98EDD43D5F9",
+    "Hash": 3395134931,
+    "SourceString": "Base Sky Color (Night)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "03DE601445DC1044FEC3FEA2574DF51B",
+    "Hash": 1718196512,
+    "SourceString": "Cloud Light Color (Day)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2EF131894E24007355DA12B9422DF155",
+    "Hash": 729449497,
+    "SourceString": "Cloud Light Color (Dawn/ Dusk)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DF67388E4504A25DEC9079B358262C19",
+    "Hash": 3508746456,
+    "SourceString": "Cloud Light Color (Night)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "81BDD7AA40A46B6AED993B886110D7FD",
+    "Hash": 1149396870,
+    "SourceString": "Cloud Dark Color (Day)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D6AF16BA4D8D6A538919769ADD29FBFC",
+    "Hash": 4238908907,
+    "SourceString": "Cloud Dark Color (Dawn/ Dusk)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FB2691AB4486C2CBB515F7945931172A",
+    "Hash": 1321336946,
+    "SourceString": "Cloud Dark Color (Night)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4341DC9C4EA48A8A6F95F1AF0A3AFD9C",
+    "Hash": 1789688096,
+    "SourceString": "Stars Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "99FD652C48B5FA31418089A62726E087",
+    "Hash": 2148881713,
+    "SourceString": "Light Ray Tint Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D27A18BD40C6FC407AE8F0909CB0544A",
+    "Hash": 246177733,
+    "SourceString": "Night Sky Glow Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "598706D74E8A40422BE897AFD712B658",
+    "Hash": 71397326,
+    "SourceString": "Light Pollution Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "12F7311A467A2D4EFCA43B9B75E06C7D",
+    "Hash": 2744314701,
+    "SourceString": "Volumetric Fog Albedo (Day)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "21208A1049BA557B6EFDFDB91EFF84DB",
+    "Hash": 3494910656,
+    "SourceString": "Volumetric Fog Albedo (Dawn/Dusk)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E26870B1470E96DB55ED37869BC57DF7",
+    "Hash": 3214590657,
+    "SourceString": "Volumetric Fog Albedo (Night)",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2FAFD24F4506D7F626F834AFAF25A501",
+    "Hash": 3140808444,
+    "SourceString": "Sun Disk Tint",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6A87453044275BD489EDDBB67CA0BFCB",
+    "Hash": 823722432,
+    "SourceString": "Solar Eclipse Tint Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "08D15C2843A5AC8485FA8FA52ACDD3B1",
+    "Hash": 2462141805,
+    "SourceString": "Sky Light Lower Hemisphere Tint (Cubemap)",
+    "LocalizedString": ""
+  }
+]

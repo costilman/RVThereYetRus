@@ -1,0 +1,51 @@
+[
+  {
+    "Namespace": "",
+    "Key": "B6FA0940F042D7FBF26FA38A8E3B708C",
+    "Hash": 1337864619,
+    "SourceString": "Letter",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "27E212EFA34BCAE0E6AE548A0F224FF5",
+    "Hash": 2923048669,
+    "SourceString": "Number",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0EA831D3D749FDE97A897CACAB232662",
+    "Hash": 477033577,
+    "SourceString": "SpecialChar",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "077A1EC47B4640A4A5201DA23B9832DD",
+    "Hash": 3955731581,
+    "SourceString": "Finished",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8C06D82074D4B3B940F75BA5EBD3908",
+    "Hash": 1263529571,
+    "SourceString": "Space",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "617A3BFC824EAC206CDC90A360085557",
+    "Hash": 1507234650,
+    "SourceString": "CapsLock",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "12B33F9F304415F530E1D5A9CBE3A153",
+    "Hash": 1135455467,
+    "SourceString": "Backspace",
+    "LocalizedString": ""
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "29E94EE949F11A216C7ED2A5A90102E3",
+    "Hash": 3929673427,
+    "SourceString": "Trace for Collision",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E1323652456736E68AF22B9F99971554",
+    "Hash": 3767319754,
+    "SourceString": "Test if Inside Occlusion Volume",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "244616184FC556FE42A5338F23CFC7BF",
+    "Hash": 3375049523,
+    "SourceString": "Both",
+    "LocalizedString": ""
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "Namespace": "",
+    "Key": "87B0B6B14FB283B8C2CAE095F9C7312F",
+    "Hash": 3547900459,
+    "SourceString": "Radial Gradient",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E41ABAF644ED82D6913558BDF392C2F6",
+    "Hash": 1297793738,
+    "SourceString": "Pyramid Gradient",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "61075415451703406E9B2AB12D31E6D6",
+    "Hash": 3326443440,
+    "SourceString": "Soft Square",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C20EC39B43FF042B3D6F7EACAE51FBC9",
+    "Hash": 3166714089,
+    "SourceString": "Soft Circle",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CB8F616D432394EE88BAB6A55072291B",
+    "Hash": 2516235676,
+    "SourceString": "Linear Falloff",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "094EB4A740F1AB9D9657E08CDC4F6736",
+    "Hash": 2488388996,
+    "SourceString": "Solid",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A0D052B74E69CA944251E0B92506448B",
+    "Hash": 1778881108,
+    "SourceString": "Painted",
+    "LocalizedString": ""
+  }
+]

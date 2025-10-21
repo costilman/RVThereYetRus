@@ -1,0 +1,51 @@
+[
+  {
+    "Namespace": "",
+    "Key": "A5D5EE354C8146969518EC9611F01B4B",
+    "Hash": 3249128031,
+    "SourceString": "Continue Ride",
+    "LocalizedString": "Продолжить поездку"
+  },
+  {
+    "Namespace": "",
+    "Key": "900278C947667B314C55DB91BA64364B",
+    "Hash": 1154576369,
+    "SourceString": "Back",
+    "LocalizedString": "Назад"
+  },
+  {
+    "Namespace": "",
+    "Key": "B63677E4464A243E0D2F9F9931AC2FD0",
+    "Hash": 1874349770,
+    "SourceString": "Delete Game",
+    "LocalizedString": "Удалить игру"
+  },
+  {
+    "Namespace": "",
+    "Key": "E3002EB84A21D14AB81B8CA48739CCAB",
+    "Hash": 3541357052,
+    "SourceString": "Load Game",
+    "LocalizedString": "Загрузить игру"
+  },
+  {
+    "Namespace": "",
+    "Key": "E481010446AF2AE1953EF487CA2B41EC",
+    "Hash": 3568570704,
+    "SourceString": "Checkpoint",
+    "LocalizedString": "Контрольная точка"
+  },
+  {
+    "Namespace": "",
+    "Key": "BEACB73446C5F1602A659886EABC6DD6",
+    "Hash": 658427593,
+    "SourceString": "Last time played",
+    "LocalizedString": "Последний запуск"
+  },
+  {
+    "Namespace": "",
+    "Key": "6F6C40DD4BAFC71C636B9586592C2364",
+    "Hash": 3060118756,
+    "SourceString": "Playtime",
+    "LocalizedString": "Время игры"
+  }
+]

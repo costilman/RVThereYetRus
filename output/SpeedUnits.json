@@ -1,0 +1,44 @@
+[
+  {
+    "Namespace": "",
+    "Key": "D59FB8F4462B9C7A413DB4B706065B05",
+    "Hash": 167766823,
+    "SourceString": "(mph) Miles Per Hour",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7C516F064EE97FBB6B3DE3BFC40C7D53",
+    "Hash": 2829350057,
+    "SourceString": "(km/h) Kilometers Per Hour",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8F7CE1294BEDC8B7D55617947BE7ED02",
+    "Hash": 654796755,
+    "SourceString": "(ft/s) Feet Per Second",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DCF3AB684D46C6DAF561B08F54B6F26C",
+    "Hash": 3003893420,
+    "SourceString": "(m/s) Meters Per Second",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F3DCFC0C484E21D1733682AA75468FD8",
+    "Hash": 2878611001,
+    "SourceString": "(kn) Knots",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FCBEE1134BFCF2B5BE873386BFB909A0",
+    "Hash": 2792765239,
+    "SourceString": "Furlong Per Fortnight",
+    "LocalizedString": ""
+  }
+]

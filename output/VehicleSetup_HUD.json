@@ -1,0 +1,436 @@
+[
+  {
+    "Namespace": "",
+    "Key": "371971B54311A73A2073219C10E649B3",
+    "Hash": 3816866387,
+    "SourceString": " / ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8AF6D92342993A440FC9B38DD9213162",
+    "Hash": 2655744854,
+    "SourceString": "30",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "997E76DD433E8A05DB20A9B8A5A951CA",
+    "Hash": 1426710285,
+    "SourceString": "--",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8BF4F82B403AF1E6149A22808F77A933",
+    "Hash": 2909300450,
+    "SourceString": "Physics FPS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "212E8ECC4C3DAAA89ADB99A021206EE2",
+    "Hash": 3145920293,
+    "SourceString": "Time Scale",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B7A36D1A4F066D9C22F6B695DE0A0385",
+    "Hash": 2709469145,
+    "SourceString": "Spring Length",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AFF011564B9B3203770D379EB7A304D1",
+    "Hash": 1891498980,
+    "SourceString": "Spring Damping",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2023C0B345B9CFF537A4D4B4A0624253",
+    "Hash": 2309399266,
+    "SourceString": "Automatic Transmission",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "86100DCB47AA0BFA97AD788915A56C9A",
+    "Hash": 1918701159,
+    "SourceString": "Physics Downforce",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A2FC1DD14C16C9638E94C6AF3ADBD8C7",
+    "Hash": 1494601752,
+    "SourceString": "Shift + F1 for Cursor",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5AB4905A4561A362A2D0EBB484E039F6",
+    "Hash": 752499853,
+    "SourceString": "Game FPS",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D55B64BF4A27B2A7EC535DAD1C90A051",
+    "Hash": 22246426,
+    "SourceString": "Flip Upright",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F1AD5EC541C22D94EBEE948CF0C956FF",
+    "Hash": 426546821,
+    "SourceString": "Show Collision",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FE0B19BB442C113D9B9C888C245E2B7C",
+    "Hash": 1116976192,
+    "SourceString": "Spring Strength",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DC8DD91D49308FB1C24D59A63C2B4A65",
+    "Hash": 3810883326,
+    "SourceString": "Preview Suspension Travel",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B2DF4E9C49D9E9A7AE5C4C9229BA14C9",
+    "Hash": 3262617368,
+    "SourceString": "Vehicle_Class",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DF9A01194DC22B5D85D84E97DC31A5C8",
+    "Hash": 825626478,
+    "SourceString": "Acceleration",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AB8FD9B2490837B8118E46B243E9F36B",
+    "Hash": 505771980,
+    "SourceString": "+7.47 mph/s",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1782C7284CE778F3CC79A487F2EBC3BD",
+    "Hash": 357934393,
+    "SourceString": "Air Speed",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "67C7053B4FEC806B82972E86C729CE95",
+    "Hash": 3088952135,
+    "SourceString": "7.47 mph",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1466512F4A67F05917DC8EB9090BA9E6",
+    "Hash": 3122007259,
+    "SourceString": "Angular Drag",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DC28B1BD46696C1F770409B8EAE04CCE",
+    "Hash": 2571480460,
+    "SourceString": "0.00",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A5256BAB441EC1EBE27636B644D75C2F",
+    "Hash": 3160828142,
+    "SourceString": "AVS Version",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "000862ED409F410E7A3646A9714619BD",
+    "Hash": 3040474849,
+    "SourceString": "7.4.7",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BC9C98DB403EBEF2171350A381BAB9C1",
+    "Hash": 2594914518,
+    "SourceString": "Brake",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F8A06D0D4F5CDB6A17F39B8B4FEFE27D",
+    "Hash": 2571480460,
+    "SourceString": "0.00",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8F9DA6E24A089B07B04DE3B040E357F6",
+    "Hash": 2959428161,
+    "SourceString": "Current Gear",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DF5CB9CB43583588D9D2DCA6D273D309",
+    "Hash": 1426710285,
+    "SourceString": "--",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7F2B7A5541551B228746B1ACB608BAAF",
+    "Hash": 102224779,
+    "SourceString": "DownShift Speed",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0948BF674980969D2DBF08810B0148E8",
+    "Hash": 3088952135,
+    "SourceString": "7.47 mph",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E172CD40419F98E57581AF80FA094E15",
+    "Hash": 539236789,
+    "SourceString": "Engine Status",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F0A2362B4B855C377341F694377884C0",
+    "Hash": 1127051317,
+    "SourceString": "Running",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BF11485C48F6B0D9EF91C686EF2E2C91",
+    "Hash": 4204918355,
+    "SourceString": "Handbrake",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AD749BA94C4468B5C01559A92FFEF677",
+    "Hash": 816077464,
+    "SourceString": "false",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9AB1C76840D48104C133049A6381FE24",
+    "Hash": 1129062425,
+    "SourceString": "Linear Drag",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "75A290B940FCB4714ACECEB9E1C03B7F",
+    "Hash": 4094897850,
+    "SourceString": "Physics State",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "59A633E7465B04ED8D0DCF8218302775",
+    "Hash": 37578679,
+    "SourceString": "Simulating",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D19E880E41E3CDFB38D83EB2E2E2D088",
+    "Hash": 2234051991,
+    "SourceString": "Engine RPM",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0B4690384AC5264979D9CC8B0A7AF8AD",
+    "Hash": 800355019,
+    "SourceString": "747.00",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9B625441461494E22A5DCCBF57D43E7A",
+    "Hash": 2150628235,
+    "SourceString": "Shifter Position",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3427175345E7070A79AD5BB62E992BA7",
+    "Hash": 4282027783,
+    "SourceString": "Drive",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8BCB8DCC44EF1E4B08B794A0A48A82DD",
+    "Hash": 2229865798,
+    "SourceString": "Slip",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8BFD0A6F4BE966C573D296947591ACAD",
+    "Hash": 2571480460,
+    "SourceString": "0.00",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4EF65A8D4EA0A19A369127950B645FAB",
+    "Hash": 1147874174,
+    "SourceString": "Steering",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9E6D187449DADCEE47D7D5BE4DCE349F",
+    "Hash": 3454942338,
+    "SourceString": "-0.5",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2C2EF3F246F8C15676BA9B976799A6E9",
+    "Hash": 942488526,
+    "SourceString": "Steering Input",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "153961CF469FD637AB2555879EEB6EE8",
+    "Hash": 3780697024,
+    "SourceString": "-0.05",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C48ADAD5465769EFA86450AAEFFE3E22",
+    "Hash": 4274387754,
+    "SourceString": "Target Speed",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FD7F7C7A4065DAAD7F72CCBC18655B47",
+    "Hash": 3088952135,
+    "SourceString": "7.47 mph",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "04A712E94625F62BD5E85F88B5A71054",
+    "Hash": 3702871763,
+    "SourceString": "Throttle",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "36ED4B354FB8A826A43E6ABAB277D06C",
+    "Hash": 925711389,
+    "SourceString": "1.00",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "97F746E44C9BD4AFF0E7D789D2C33945",
+    "Hash": 3481965295,
+    "SourceString": "Torque",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9111A6A649F9DCDDDD2C9B801EFE4799",
+    "Hash": 1987398596,
+    "SourceString": "74.7",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3D83CCDA4A06CDA223BBB6AA754FD1D1",
+    "Hash": 2205722608,
+    "SourceString": "Unreal Version",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DC2315FE467CE9DC28EFFAA7928271BE",
+    "Hash": 3729051713,
+    "SourceString": "UpShift Speed",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F039A08F44683FBA8675B49A4EE5269A",
+    "Hash": 3088952135,
+    "SourceString": "7.47 mph",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C6E93BE94F31B440E82F5394B4B6C5E3",
+    "Hash": 3798955889,
+    "SourceString": "Vehicle Mass",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5AE03DD3433AA8AC27C92D9307997255",
+    "Hash": 3973053835,
+    "SourceString": "747.00 Kg",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "823BA3484A2B204CF7E5CFB863E56AE3",
+    "Hash": 1795964889,
+    "SourceString": "Wheel Count",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4D44A77048ADF6AC1E5F679EC9AF76CB",
+    "Hash": 1577955562,
+    "SourceString": "4",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "816D274F4115DD220EF40AA1B1F7C7D7",
+    "Hash": 3798756205,
+    "SourceString": "Wheel Speed",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "77000B0B44FF2F7A7837C9A7708ABB9C",
+    "Hash": 3088952135,
+    "SourceString": "7.47 mph",
+    "LocalizedString": ""
+  }
+]

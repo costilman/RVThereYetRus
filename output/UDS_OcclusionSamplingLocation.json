@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "FBE1DDE84BAD6C4BD28ABEA1FCDD41BB",
+    "Hash": 2839925167,
+    "SourceString": "Player Camera",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BD0708504EA4FA2E0E7A678A97E05D96",
+    "Hash": 4198843692,
+    "SourceString": "Player Pawn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "64BC39114C6D993D78BBAFBCB2606623",
+    "Hash": 895317443,
+    "SourceString": "Component Location",
+    "LocalizedString": ""
+  }
+]

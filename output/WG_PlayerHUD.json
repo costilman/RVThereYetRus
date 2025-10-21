@@ -1,0 +1,128 @@
+[
+  {
+    "Namespace": "",
+    "Key": "53DA7E4143D1C2975CA5DC95A689059E",
+    "Hash": 4125839686,
+    "SourceString": "Caption Text",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6ACC9F5F40642A764101B79FD110026B",
+    "Hash": 2619254768,
+    "SourceString": "Credits",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "931274074FFF78F2CA338DAA7B0BCBED",
+    "Hash": 3191558409,
+    "SourceString": "Ultra Dynamic Sky",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D3927D984A017DB469DAF299DC0DC049",
+    "Hash": 529664230,
+    "SourceString": "Advanced Vehicle Plugin",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "17DCB9B744828C2C02B859B7CF5A52F3",
+    "Hash": 216714973,
+    "SourceString": "\"RV There Yet?\" uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. \r\nin the United States of America and elsewhere.\r\n\r\nUnreal® Engine, Copyright 1998 – 2025, Epic Games, Inc. All rights reserved.",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0A342F4B45C6C93512E364B5238DE5A3",
+    "Hash": 1137926660,
+    "SourceString": "Thank you for playing",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F063E89E4D5D9423ADE13D9AD3B168DE",
+    "Hash": 1287134980,
+    "SourceString": "7",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A1F603064B7480A53E6029B789901030",
+    "Hash": 3716288919,
+    "SourceString": "FAIL",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8B0B610740DE5B51068D78B476615A3A",
+    "Hash": 2392517595,
+    "SourceString": "Notification Text",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "01543BF346858116CD05B5A2E84E5DD1",
+    "Hash": 3870414735,
+    "SourceString": "5",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BADA733C4AE4F491C57EF7B4A1183F0D",
+    "Hash": 2699524281,
+    "SourceString": "Player Username",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E1AA6942483F4E87443AA89D54AEDCB5",
+    "Hash": 3382060898,
+    "SourceString": "Hold ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2E4F7C8C46E54F6A3EBD97B0BE97526D",
+    "Hash": 2652216643,
+    "SourceString": " =",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C240E2EE4BAE050DCB2CAC9E165465AD",
+    "Hash": 3709793285,
+    "SourceString": " = ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A37465C7469DF089389E6BB8C59A6B43",
+    "Hash": 3709793285,
+    "SourceString": " = ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F2FAAAF842CAF2C3CD46A9A00D5070E3",
+    "Hash": 3709793285,
+    "SourceString": " = ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F9A09B5F47E792B3D49D11A648656B4A",
+    "Hash": 3709793285,
+    "SourceString": " = ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D3B6C7AE4F92ECD4EEABBB88AB6F825A",
+    "Hash": 2467440213,
+    "SourceString": "Return To Main Menu",
+    "LocalizedString": ""
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Namespace": "",
+    "Key": "C0AB99D1463A4991CE93B18645D33F9E",
+    "Hash": 1580699691,
+    "SourceString": "Fahrenheit",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C7AA4C1C40B4B54714B218A3EEC92755",
+    "Hash": 4255499323,
+    "SourceString": "Celsius",
+    "LocalizedString": ""
+  }
+]

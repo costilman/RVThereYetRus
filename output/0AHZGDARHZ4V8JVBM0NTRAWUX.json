@@ -1,0 +1,44 @@
+[
+  {
+    "Namespace": "",
+    "Key": "5AC0D493499FB1AE533365B5A01B8D89",
+    "Hash": 2100167195,
+    "SourceString": "Stefan Hanna",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "21921B6E490BDD0CE81F8CB47371B5F9",
+    "Hash": 2383184373,
+    "SourceString": "Emil Gunnarsson",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F396B90A428F4DF7E7EEA1B6ABE707E6",
+    "Hash": 3396027236,
+    "SourceString": "Marie Kauffeldt",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C6A0ED84491CA7475E13FE99F54D545E",
+    "Hash": 3221209641,
+    "SourceString": "Kristoffer Freiholtz",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5C89B74A49FADD5170AFBE9A90E0E056",
+    "Hash": 2868573624,
+    "SourceString": "Anna Larsson",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AC3030A74E7E8F520A71F386F7847D15",
+    "Hash": 281018840,
+    "SourceString": "Simon Begby",
+    "LocalizedString": ""
+  }
+]

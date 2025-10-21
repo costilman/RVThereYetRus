@@ -1,0 +1,107 @@
+[
+  {
+    "Namespace": "",
+    "Key": "46848AE14883C8A6F9BB27818322AA5E",
+    "Hash": 1950475734,
+    "SourceString": "Light Rain",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D492EF194722588B7D76BDBB2A2AF9F5",
+    "Hash": 82361749,
+    "SourceString": "Rain",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3F06C13C402A7E4A9F695DAA79F70FCB",
+    "Hash": 2350753855,
+    "SourceString": "Heavy Rain",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BD947A81486B2833807E388AB9131C01",
+    "Hash": 83915584,
+    "SourceString": "Thunderstorm",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E9EC170549527D15410C07A6E7E14202",
+    "Hash": 1136917156,
+    "SourceString": "Light Snow",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5F2231B54FC562CC95ADBBAC3684A237",
+    "Hash": 862626535,
+    "SourceString": "Snow",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8C40AD0048E8FC985A45A9BE80D12CCD",
+    "Hash": 3147806541,
+    "SourceString": "Heavy Snow",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "536BE38E41786D4BD706DAABA7E20934",
+    "Hash": 3589563099,
+    "SourceString": "Blizzard",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "39BFB2514E228C056C678EB0D9969F78",
+    "Hash": 357963890,
+    "SourceString": "Dust Storm",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "70A4391243491FE7AB7F4DA200324A18",
+    "Hash": 1822402164,
+    "SourceString": "Dust",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51BBA1A146A8E36CD8BC6399DF06C5FC",
+    "Hash": 2574684096,
+    "SourceString": "Foggy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "258169664D838D9A3052AAAF72E8FA2C",
+    "Hash": 1134780161,
+    "SourceString": "Clear Skies",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E50A9C714CD3E88F3CFA2B982CB9720F",
+    "Hash": 1029220926,
+    "SourceString": "Partly Cloudy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7D2D123D43AAB974F9A5D9A567D56EDB",
+    "Hash": 1759840581,
+    "SourceString": "Cloudy",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "36F118A34CFE8897E49E89A897B947C0",
+    "Hash": 571775263,
+    "SourceString": "Overcast",
+    "LocalizedString": ""
+  }
+]

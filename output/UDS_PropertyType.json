@@ -1,0 +1,79 @@
+[
+  {
+    "Namespace": "",
+    "Key": "5FAD0FB940AC306C2447028E0458A662",
+    "Hash": 2193071254,
+    "SourceString": "Float",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B624356E44D9EFDDE5C6A5B20BAF70CA",
+    "Hash": 4146318924,
+    "SourceString": "Int",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D7D3EBD841242273AF63D1B03473A731",
+    "Hash": 89405906,
+    "SourceString": "Linear Color",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FD97B7EF4BDBAE58232D28BDD7B0040F",
+    "Hash": 1157104109,
+    "SourceString": "Object",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4ED762B94E409AC1789620BA79667F72",
+    "Hash": 1738051865,
+    "SourceString": "Bool",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CECDF58F4DF77686767ECBBC3EDC8A07",
+    "Hash": 3630480370,
+    "SourceString": "Byte",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "39E0A25B4DF48879046E44B06C7AF334",
+    "Hash": 3923545039,
+    "SourceString": "Vector 2D",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8D72C1424B3E9EE2F691CBA12A5F38EB",
+    "Hash": 2986173444,
+    "SourceString": "Vector",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DF1B452948B849F5DFF5A796A16CF6FB",
+    "Hash": 4079231793,
+    "SourceString": "SoftObject",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "68F77A4442291CD0643EC1B95F5BC837",
+    "Hash": 2545742139,
+    "SourceString": "Float Range",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0D7C456A4B84E3305B645DBABE1E22DD",
+    "Hash": 106634355,
+    "SourceString": "Soft Class",
+    "LocalizedString": ""
+  }
+]

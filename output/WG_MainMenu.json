@@ -1,0 +1,37 @@
+[
+  {
+    "Namespace": "",
+    "Key": "CEAB6F9F4DCBAE2C89095290AECB087A",
+    "Hash": 3541357052,
+    "SourceString": "Load Game",
+    "LocalizedString": "Загрузить игру"
+  },
+  {
+    "Namespace": "",
+    "Key": "EF2AC43F4681B75064E70587E3DBE3CE",
+    "Hash": 2028851034,
+    "SourceString": "Join",
+    "LocalizedString": "Присоединиться"
+  },
+  {
+    "Namespace": "",
+    "Key": "5CFDDCC648DC78BBC77C2DAD7CCC28C5",
+    "Hash": 829792470,
+    "SourceString": "New Game",
+    "LocalizedString": "Новая игра"
+  },
+  {
+    "Namespace": "",
+    "Key": "56B81E234E152BB46CF048910AB88034",
+    "Hash": 3236965722,
+    "SourceString": "Options",
+    "LocalizedString": "Настройки"
+  },
+  {
+    "Namespace": "",
+    "Key": "8A0158D649CA01E75325EB8F2B9B1B57",
+    "Hash": 2971868136,
+    "SourceString": "Exit",
+    "LocalizedString": "Выход"
+  }
+]

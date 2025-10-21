@@ -1,0 +1,1017 @@
+[
+  {
+    "Namespace": "",
+    "Key": "9C853A034CE04338B98A6386323B8988",
+    "Hash": 669523029,
+    "SourceString": "Select Preset",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FFAAD80344282C0D08D7379DC29F0FF6",
+    "Hash": 2111865307,
+    "SourceString": "Accra",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D33C1CCD43127ACAED210DB3AED130A6",
+    "Hash": 469467234,
+    "SourceString": "Addis Ababa",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FF20ED7049B31DF65DE96CBCC0350609",
+    "Hash": 1982999177,
+    "SourceString": "Adelaide",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B7DD11A04F13D29D8ADC8A92D3115C2F",
+    "Hash": 2194619594,
+    "SourceString": "Algiers",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0494D688408DC7A53BDFF79C5F73FBA4",
+    "Hash": 1171982209,
+    "SourceString": "Almaty",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0E0A310840E2BAFCB5990496C98FB320",
+    "Hash": 503612144,
+    "SourceString": "Amman",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "05DD68784CE4A79A0B9A5990283D7A89",
+    "Hash": 3464828766,
+    "SourceString": "Amsterdam",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EC74BED6410A4ED5CE2E88B49DCFBD84",
+    "Hash": 4237313797,
+    "SourceString": "Anadyr",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "67B9C77D44D73BFAAFCD128AB815F03F",
+    "Hash": 348710315,
+    "SourceString": "Anchorage",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "81127937427F6AF27CA5F6B8DA564B2E",
+    "Hash": 2403757598,
+    "SourceString": "Ankara",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AC195B5B479A956B44AA38AB42D2743C",
+    "Hash": 2108668887,
+    "SourceString": "Antananarivo",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "64B0426745FFD291A29D8A8D00D05201",
+    "Hash": 3507142543,
+    "SourceString": "Asuncion",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "89A04B044539FE8143DB56A99DCC22C5",
+    "Hash": 3277804024,
+    "SourceString": "Athens",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D5DB8F454C8051B7A09AD4B802A4ADDF",
+    "Hash": 589646307,
+    "SourceString": "Atlanta",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "985393CE4CF32D406004F88304736837",
+    "Hash": 463191437,
+    "SourceString": "Auckland",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "041CD82542FEDA53C97E70AE7AD965F0",
+    "Hash": 2953345083,
+    "SourceString": "Baghdad",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DFEFF0FE4AABF78D50BA0193A71127E5",
+    "Hash": 4179849184,
+    "SourceString": "Bangkok",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "521035294B577173F9A906A8C1FE5B51",
+    "Hash": 1409037990,
+    "SourceString": "Barcelona",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A8DD286F4AA27DB7A80776B5EFDEF49D",
+    "Hash": 309081292,
+    "SourceString": "Beijing",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7E17260B43D6B7FBE070518CA7167ECF",
+    "Hash": 1947134101,
+    "SourceString": "Beirut",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DA4DE7F947DA1D56DA609E92B62644F6",
+    "Hash": 371319128,
+    "SourceString": "Belgrade",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "225770C048B2BFD705EC4AB418A81326",
+    "Hash": 133854711,
+    "SourceString": "Bengaluru",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1951652041DD45670CA4248ED94D4314",
+    "Hash": 963334347,
+    "SourceString": "Berlin",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "888594224AE1D4DB699F8AAF89757750",
+    "Hash": 977532193,
+    "SourceString": "Bogota",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8A86799B4E2876C822C37284CB9CC509",
+    "Hash": 208532449,
+    "SourceString": "Boston",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DB2A3C3D462EB936EE5EC7B0D2AAB60F",
+    "Hash": 2873545258,
+    "SourceString": "Brasilia",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EFD33450451CAC70F885B3BD52BC4F75",
+    "Hash": 949508745,
+    "SourceString": "Brisbane",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "21986A904F98CCD74880CDAA353AE78A",
+    "Hash": 2162564123,
+    "SourceString": "Brussels",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "57803AE64132D52BF4E68E96D2367E7D",
+    "Hash": 1305523044,
+    "SourceString": "Bucharest",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "743A004740F1A61BA9BCE09CE93FCA23",
+    "Hash": 1093502775,
+    "SourceString": "Budapest",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C2A681064B7AF36452D7749EA779C1EF",
+    "Hash": 3924157559,
+    "SourceString": "Buenos Aires",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DC7BE03E4E34D5D343C05C8F71CE0643",
+    "Hash": 979783014,
+    "SourceString": "Cairo",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DB6CF26141FD13937DD9BFBAF528AAE4",
+    "Hash": 3317807102,
+    "SourceString": "Calgary",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BDBAD8FE457CEF6DBB26E49B3E7472F5",
+    "Hash": 1181964938,
+    "SourceString": "Canberra",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "58727885422AF513EEF339B358CD74E2",
+    "Hash": 3526679210,
+    "SourceString": "Cape Town",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1B99A76041AC519F2194C79375C4979B",
+    "Hash": 517764715,
+    "SourceString": "Caracas",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6E4882984BAFC970CAD69E80D15FF615",
+    "Hash": 2920912136,
+    "SourceString": "Casablanca",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6CC1145347A2F81813EBAB85F472CFB6",
+    "Hash": 679167475,
+    "SourceString": "Chicago",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "46452BA34F046802BA3505A33D5896AA",
+    "Hash": 787629545,
+    "SourceString": "Copenhagen",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C49FE10247149CB42A6C8489A98F30BF",
+    "Hash": 1888007424,
+    "SourceString": "Dallas",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BFA2AF46431CCED60E9E6C8F2B7F2240",
+    "Hash": 1812875570,
+    "SourceString": "Dar es Salaam",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5BBB88E642A7BF6E1FC5BAB755B24AF2",
+    "Hash": 3123814448,
+    "SourceString": "Darwin",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "919A7DF742FC4ECAE4B9C7A15736FB99",
+    "Hash": 1662785336,
+    "SourceString": "Denver",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C31C31E1422B24F36ED2B98667AA5EF7",
+    "Hash": 1931960915,
+    "SourceString": "Detroit",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "03A778B3471B0FBBCE608494B7ACEF09",
+    "Hash": 2206125798,
+    "SourceString": "Dhaka",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1C5D367842F6DFE37936D591867B4C71",
+    "Hash": 3433441593,
+    "SourceString": "Doha",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F3B8CE4149441BDEC2F849AD1B248101",
+    "Hash": 1341740278,
+    "SourceString": "Dubai",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D21A24684E283EE991569FB45595CCB4",
+    "Hash": 2411173664,
+    "SourceString": "Dublin",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "91FF7A64497E55FFE1FE8286B48DCA9E",
+    "Hash": 3962196392,
+    "SourceString": "Edmonton",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FC0AB21242CE2A80BED1F983BEA8ED5A",
+    "Hash": 3690098249,
+    "SourceString": "Frankfurt",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A9BA4D3E4B2C5816239544A47CE0994B",
+    "Hash": 2505400606,
+    "SourceString": "Guatemala City",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0C85740345402CBAE062B58BC6B4986E",
+    "Hash": 3559003832,
+    "SourceString": "Halifax",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CE8DC8D440674D0116D286AEE72D30DC",
+    "Hash": 3193521335,
+    "SourceString": "Hanoi",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4A4351F2481EA7852737ECB77BCC9B62",
+    "Hash": 349167793,
+    "SourceString": "Harare",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0A34B63B4B78055F68FF27BD50A8AB07",
+    "Hash": 1686642437,
+    "SourceString": "Havana",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FFF4CCFC4BB48C4F2D3720A1F4F48CD4",
+    "Hash": 1044758307,
+    "SourceString": "Helsinki",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D993F7D84A24B0F30829228FD36F2E14",
+    "Hash": 3496604742,
+    "SourceString": "Hong Kong",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3CBA33DA4BBAD2A389C7BA995B7D8E50",
+    "Hash": 3448996586,
+    "SourceString": "Honolulu",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C2F73F574B0E5AE7C595858D2902295E",
+    "Hash": 1009242919,
+    "SourceString": "Houston",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "06664EE04BC30DD05C49778746B6F8FC",
+    "Hash": 857673473,
+    "SourceString": "Indianapolis",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3306D67C4DC8A2C8D2838F9797980DBC",
+    "Hash": 1284969320,
+    "SourceString": "Islamabad",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B54C5A414240A2A7C1DF7D82F9A7AA52",
+    "Hash": 4027489762,
+    "SourceString": "Istanbul",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51C474534072407DD2E763A715E088D0",
+    "Hash": 1397367943,
+    "SourceString": "Jakarta",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2369E1FC44C457CCB7429C92DC6AE9CD",
+    "Hash": 2416817528,
+    "SourceString": "Jerusalem",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F7EB77D24A834EE3377916AEDE2A9289",
+    "Hash": 2127101148,
+    "SourceString": "Johannesburg",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C216A32546601DDC596F0196D1AB0ACB",
+    "Hash": 3462371629,
+    "SourceString": "Kabul",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "20BC3DDE460654DB08B4C4AB7EA11F60",
+    "Hash": 865612371,
+    "SourceString": "Karachi",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6CCFC5AA4054CA0D601991B0DA460305",
+    "Hash": 2014104641,
+    "SourceString": "Kathmandu",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0038309E4B93FDFE5AFB9A9CE66F70E1",
+    "Hash": 809840251,
+    "SourceString": "Khartoum",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "05DC0C884F74652E5CEADD8512142050",
+    "Hash": 1712623647,
+    "SourceString": "Kingston",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "26DA6A5648C76A47D6B75EAC64A35B06",
+    "Hash": 2467261342,
+    "SourceString": "Kinshasa",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "618AB88448CE2EEFB886BE99A24E5202",
+    "Hash": 3659524493,
+    "SourceString": "Kiritimati",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EDA59E7F4680A7BE39348BA04C55F84A",
+    "Hash": 1589548231,
+    "SourceString": "Kolkata",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "DF19CC894D83C00C97DF2B80B33939E2",
+    "Hash": 918881389,
+    "SourceString": "Kuala Lumpur",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6153575E4A6D0CEC93FE2AAFC64620D6",
+    "Hash": 132530680,
+    "SourceString": "Kuwait City",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "036B0EA546490E050D3C66B097AC8ABA",
+    "Hash": 2685233575,
+    "SourceString": "Kyiv",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "92938D824D627ACC9A5B19BE0AFE8BA5",
+    "Hash": 1207081091,
+    "SourceString": "La Paz",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E46234824DAEE4ED91D0C98EFF4EC19B",
+    "Hash": 1387864708,
+    "SourceString": "Lagos",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CE26056B45593E46DF20668407C4C980",
+    "Hash": 2255235394,
+    "SourceString": "Lahore",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "10414762422F49C75706379C83E6D39C",
+    "Hash": 943693192,
+    "SourceString": "Las Vegas",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8D9623F844619F1F1D88BE9DDCE5F727",
+    "Hash": 409476594,
+    "SourceString": "Lima",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AC3AD8914D59D98A54BC48892838AAF6",
+    "Hash": 156977350,
+    "SourceString": "Lisbon",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5E0E230846C37A801AE7009C5319E425",
+    "Hash": 2368212020,
+    "SourceString": "London",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "565B2CB64E346EEF524264BB6C0048F3",
+    "Hash": 4277000344,
+    "SourceString": "Los Angeles",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1BF36E8E4FE41EB3231788826A63D064",
+    "Hash": 2880518567,
+    "SourceString": "Madrid",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "4AF6A3A049AFBB3109FD2BA9080055F7",
+    "Hash": 618175929,
+    "SourceString": "Managua",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "43A3A754476A111581FBBE9F36B3492F",
+    "Hash": 1572221999,
+    "SourceString": "Manila",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "24B7484747E892D03ED9FFAFD4BE1D81",
+    "Hash": 3985835937,
+    "SourceString": "Melbourne",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E8A6AD6D4465B94495AD168665B35CCA",
+    "Hash": 994676000,
+    "SourceString": "Mexico City",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "529A42C7480093C0430461AA0133C36C",
+    "Hash": 3597767659,
+    "SourceString": "Miami",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1114A3D34D2309B55700879568D81C5D",
+    "Hash": 329300125,
+    "SourceString": "Minneapolis",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2D57EA61498FFEA55E3372AC4E68EDD8",
+    "Hash": 1742595848,
+    "SourceString": "Minsk",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ECFC675A4100D722BE0735BD895AD369",
+    "Hash": 1661770567,
+    "SourceString": "Montevideo",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0C6B7FED4461273491EC4091B1D28618",
+    "Hash": 2249434971,
+    "SourceString": "Montréal",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "29863B31435C63FB20A2BE8067ABB0D0",
+    "Hash": 3135890510,
+    "SourceString": "Moscow",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F295BDE847218C9F6D83EF8520840D7B",
+    "Hash": 4118174097,
+    "SourceString": "Mumbai",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "ECEAC9EB4D3949FDC1B119A118DF8293",
+    "Hash": 3177959490,
+    "SourceString": "Nairobi",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "277D46F446E0E1097CA91E9C6DCBF7F0",
+    "Hash": 1217671492,
+    "SourceString": "Nassau",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E1FB67324CFB5817935CCD90187CA006",
+    "Hash": 3313699274,
+    "SourceString": "New Delhi",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "64F9B8A043BF8FEC830EA29A5B9A27BA",
+    "Hash": 1352855105,
+    "SourceString": "New Orleans",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "30884F6C4903E89D41A6769451005A16",
+    "Hash": 1537601353,
+    "SourceString": "New York",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "773EB0BF4BF9745C696C95B5B6779CCD",
+    "Hash": 4227521328,
+    "SourceString": "Oslo",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8E228FD94E61FF6A70BF97AB0BCB0B89",
+    "Hash": 2055756843,
+    "SourceString": "Ottawa",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0C947A9244ACE68ED91CD5946DF3076B",
+    "Hash": 3548873371,
+    "SourceString": "McMurdo Station",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C650C4524FCC0106C1F355A01D91776D",
+    "Hash": 865937185,
+    "SourceString": "Paris",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "69F394A746CC53B0A3BF378899894500",
+    "Hash": 2265620418,
+    "SourceString": "Perth",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "959499924EF0834659E9BCA9FEA74AB1",
+    "Hash": 3290687643,
+    "SourceString": "Philadelphia",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "51A6CBF14A28231407A7489FB282DF4E",
+    "Hash": 1285064016,
+    "SourceString": "Phoenix",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0C0079F944DE3205997C9ABFF8FB6058",
+    "Hash": 3704709960,
+    "SourceString": "Prague",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "268FC6B047909E1F776BBF8943F3A204",
+    "Hash": 2673316297,
+    "SourceString": "Reykjavik",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D7D167664E01EE4FF4A48BBA80ACA44A",
+    "Hash": 3081261831,
+    "SourceString": "Rio de Janeiro",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3294B50B46DF09549B9AB7B432599511",
+    "Hash": 4012667459,
+    "SourceString": "Riyadh",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "38228682462235DD0D5A33999925AA11",
+    "Hash": 3197298544,
+    "SourceString": "Rome",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "057E3C904C81AFD15FDBD6AD9E62878C",
+    "Hash": 2980489756,
+    "SourceString": "Salt Lake City",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A4CD071542923D7BE68622A54D16BCCA",
+    "Hash": 2397805441,
+    "SourceString": "San Francisco",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "946C60974CC14D0C385810AF9AD1800E",
+    "Hash": 3808833967,
+    "SourceString": "San Juan",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CEF64D5E48A150DAD66023AF5BCCF017",
+    "Hash": 2532460909,
+    "SourceString": "San Salvador",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B004282E4D19A65FC58A9D95D3EDCDCB",
+    "Hash": 938452523,
+    "SourceString": "Santiago",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "5914437B48050D8D75160F9C9C359786",
+    "Hash": 3704930721,
+    "SourceString": "Santo Domingo",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BD0FFA654EF4EF914D25D6BA49B9A664",
+    "Hash": 113018181,
+    "SourceString": "São Paulo",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BC2817034E8F2E0F5687E9A8C95EA139",
+    "Hash": 694363490,
+    "SourceString": "Seattle",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "A70AF59A4585532F82C7C0B2112817A6",
+    "Hash": 4191988179,
+    "SourceString": "Seoul",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "828C86F749DB1B076FE84BB10876AEC0",
+    "Hash": 823929197,
+    "SourceString": "Shanghai",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D5F6009243BC442298DD91885C4A8CDD",
+    "Hash": 375804436,
+    "SourceString": "Singapore",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FDA5A0D041024E88561992A45F76B826",
+    "Hash": 1236850135,
+    "SourceString": "Sofia",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C19532CA4CD320C513DC8AA2206E794E",
+    "Hash": 2028203711,
+    "SourceString": "St. John's",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0B618F834C47514A58672EA5A8984DD3",
+    "Hash": 1852604018,
+    "SourceString": "Stockholm",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "08E1DE9C49CB98488729A1B16739C175",
+    "Hash": 1483131222,
+    "SourceString": "Suva",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "69B631E946CD8B427F3A86807F9DC707",
+    "Hash": 926510995,
+    "SourceString": "Sydney",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "7D1983CD4B146AD750EE47A3D82F28F0",
+    "Hash": 3343257175,
+    "SourceString": "Taipei",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BE86EBF54DE88BEE7EA4629D9D4F0BAA",
+    "Hash": 1620738940,
+    "SourceString": "Tallinn",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F06C50C94422675D37E2CCB1A903B6B5",
+    "Hash": 3846065954,
+    "SourceString": "Tashkent",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "C357DB87445E8EB7C903B696445056BC",
+    "Hash": 1804419117,
+    "SourceString": "Tegucigalpa",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "451545464C16FFA8AD13BB9EFF8BEDD7",
+    "Hash": 3529890883,
+    "SourceString": "Tehran",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9BFE81514DCCD56CD531068D3D554B8A",
+    "Hash": 2855744690,
+    "SourceString": "Tokyo",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "FA9DDC3F4CEE90B1D5DAFFB66C4FAC55",
+    "Hash": 4077066795,
+    "SourceString": "Toronto",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D9576625460D01219DE87DB19C682929",
+    "Hash": 2029281813,
+    "SourceString": "Vancouver",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "D24EFFB84E0E9361DA4F35A60DBAC533",
+    "Hash": 1500761465,
+    "SourceString": "Vienna",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3AB1D8B1404F5E0168146F867FD7876F",
+    "Hash": 1622560506,
+    "SourceString": "Warsaw",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "163C87054FAF09524A4F92814A0CA86E",
+    "Hash": 2645874793,
+    "SourceString": "Washington DC",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F8D7988540B1604DE4DD92AFB322C6F4",
+    "Hash": 3962950131,
+    "SourceString": "Winnipeg",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2E4CD6664E67AC5399F6FB9E43B084C0",
+    "Hash": 1946554854,
+    "SourceString": "Yangon",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "EAC67AEF4BE4D6DA6C3256A8375DE075",
+    "Hash": 3201208204,
+    "SourceString": "Zagreb",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B9C2097946003B8250697FB73A781263",
+    "Hash": 3415089585,
+    "SourceString": "Zürich",
+    "LocalizedString": ""
+  }
+]

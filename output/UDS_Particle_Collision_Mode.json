@@ -1,0 +1,23 @@
+[
+  {
+    "Namespace": "",
+    "Key": "C747A26C428882A8398EF2A4FE416CF3",
+    "Hash": 2813151907,
+    "SourceString": "Simple Collision",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "3B8BB62E45595EA4CBA1AFB84179219F",
+    "Hash": 3424372137,
+    "SourceString": "Distance Field Collision",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AB7E86384DC58E2EDE1098B12FF6CE4F",
+    "Hash": 2998954411,
+    "SourceString": "No Collision",
+    "LocalizedString": ""
+  }
+]
