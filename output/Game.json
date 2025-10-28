@@ -1,0 +1,2823 @@
+[
+  {
+    "Namespace": "",
+    "Key": "CE1F964341961F4316FEC19286599147",
+    "Hash": 2853980192,
+    "SourceString": "  Ray Reconstruction",
+    "LocalizedString": "  Реконструкция лучей"
+  },
+  {
+    "Namespace": "",
+    "Key": "9727BBCD473F9EDECFA14699854771FF",
+    "Hash": 1617241841,
+    "SourceString": "  Super Resolution",
+    "LocalizedString": "  Суперразрешение"
+  },
+  {
+    "Namespace": "",
+    "Key": "8D6B3A284B8521A894141CBED785D142",
+    "Hash": 3841982863,
+    "SourceString": "150g Burger",
+    "LocalizedString": "150г бургер"
+  },
+  {
+    "Namespace": "",
+    "Key": "9302BF3040F04EEA8FFDBDB6930F4B3E",
+    "Hash": 1095792229,
+    "SourceString": "6 Pack",
+    "LocalizedString": "6 банок пива"
+  },
+  {
+    "Namespace": "",
+    "Key": "70DCB1DA46EF15AFC9EBA5BCEA0AE538",
+    "Hash": 2236756740,
+    "SourceString": "90g Burger",
+    "LocalizedString": "90г бургер"
+  },
+  {
+    "Namespace": "",
+    "Key": "D07B54FC46F49F7758777DB4363205A0",
+    "Hash": 539495295,
+    "SourceString": "A game with that name already exists",
+    "LocalizedString": "Игра с таким названием уже существует"
+  },
+  {
+    "Namespace": "",
+    "Key": "A7CF323F4790BB287A66DAB521AF74A7",
+    "Hash": 2263680500,
+    "SourceString": "Absolute Taste",
+    "LocalizedString": "Абсолютный вкус"
+  },
+  {
+    "Namespace": "",
+    "Key": "0C6F8AFF43A5129AA066459FC8338BE1",
+    "Hash": 1826647123,
+    "SourceString": "Accept",
+    "LocalizedString": "Принять"
+  },
+  {
+    "Namespace": "",
+    "Key": "68A841B6498BF655B3941B9DF55A9B21",
+    "Hash": 1826647123,
+    "SourceString": "Accept",
+    "LocalizedString": "Принять"
+  },
+  {
+    "Namespace": "",
+    "Key": "73FCCC484521BA22B8480A981E88BF6E",
+    "Hash": 1826647123,
+    "SourceString": "Accept",
+    "LocalizedString": "Принять"
+  },
+  {
+    "Namespace": "",
+    "Key": "AC21277C4C5A90A61D6385BFF5D7925F",
+    "Hash": 1826647123,
+    "SourceString": "Accept",
+    "LocalizedString": "Принять"
+  },
+  {
+    "Namespace": "",
+    "Key": "DBD4AB644A73F04256D6FAB162E48CE1",
+    "Hash": 4158460561,
+    "SourceString": "Advanced",
+    "LocalizedString": "Расширенные"
+  },
+  {
+    "Namespace": "",
+    "Key": "D3927D984A017DB469DAF299DC0DC049",
+    "Hash": 529664230,
+    "SourceString": "Advanced Vehicle Plugin",
+    "LocalizedString": "Расширенный плагин для транспортных средств"
+  },
+  {
+    "Namespace": "",
+    "Key": "640CA1FC4DD56E9A40FCFFB4F2DB4433",
+    "Hash": 350247948,
+    "SourceString": "After a week of boondocking in Mabutts Valley, it's time to head home...",
+    "LocalizedString": "После недели, проведенной в долине Мабуттс, пора возвращаться домой..."
+  },
+  {
+    "Namespace": "",
+    "Key": "796C379A45894AFB9B996DBE34B2DEC0",
+    "Hash": 990240016,
+    "SourceString": "All Players Died",
+    "LocalizedString": "Все игроки умерли"
+  },
+  {
+    "Namespace": "",
+    "Key": "E0A8A49F4FB53C88E543EEB937F3B154",
+    "Hash": 2661520687,
+    "SourceString": "Ambient",
+    "LocalizedString": "Громкость окружения"
+  },
+  {
+    "Namespace": "",
+    "Key": "727D5175406699B4EDA18C9667902238",
+    "Hash": 2893538708,
+    "SourceString": "An okay Burger",
+    "LocalizedString": "Нормальный бургер"
+  },
+  {
+    "Namespace": "",
+    "Key": "5C89B74A49FADD5170AFBE9A90E0E056",
+    "Hash": 2868573624,
+    "SourceString": "Anna Larsson",
+    "LocalizedString": "Анна Ларссон"
+  },
+  {
+    "Namespace": "",
+    "Key": "E4E9A0664561AA032F73149574514DED",
+    "Hash": 1253141893,
+    "SourceString": "Anti Alias Method",
+    "LocalizedString": "Метод сглаживания"
+  },
+  {
+    "Namespace": "",
+    "Key": "55384CDF4F1354D0EC2E6EA91FF06584",
+    "Hash": 610700382,
+    "SourceString": "Anti Alias",
+    "LocalizedString": "Сглаживание"
+  },
+  {
+    "Namespace": "",
+    "Key": "2EC66A1F4C716B086049B2A6116E66AF",
+    "Hash": 1156430723,
+    "SourceString": "Antidote",
+    "LocalizedString": "Противоядие"
+  },
+  {
+    "Namespace": "",
+    "Key": "008EF0CE464C456110D8EAB9A2E75F79",
+    "Hash": 890595538,
+    "SourceString": "Apply",
+    "LocalizedString": "Применить"
+  },
+  {
+    "Namespace": "",
+    "Key": "C9AAF1ED4626B614BC906C97A627DE09",
+    "Hash": 3065284200,
+    "SourceString": "Apply Lotion",
+    "LocalizedString": "Нанести лосьон"
+  },
+  {
+    "Namespace": "",
+    "Key": "E2AEA516474E42D4877FD7837CA7B1A8",
+    "Hash": 870906922,
+    "SourceString": "Are you sure you want to delete the save \"{SaveName}\"?",
+    "LocalizedString": "Вы уверены, что хотите удалить сохранение \"{SaveName}\"?"
+  },
+  {
+    "Namespace": "",
+    "Key": "C6C321B14F48C91D52912794730F7348",
+    "Hash": 3924020521,
+    "SourceString": "Asset has nanite material override, please disable this as we don't support nanite",
+    "LocalizedString": "Актив имеет переопределение материала наноитов, пожалуйста, отключите его, так как мы не поддерживаем наноиты."
+  },
+  {
+    "Namespace": "",
+    "Key": "34ECDC67406F0BBB06A7CF94375C437E",
+    "Hash": 2147572258,
+    "SourceString": "Asset is nanite enabled and will crash builds. Disable nanite to submit!",
+    "LocalizedString": "Актив поддерживает наноиты и приводит к сбою сборки. Отключите наноиты, чтобы отправить!"
+  },
+  {
+    "Namespace": "",
+    "Key": "E1C24CC2433937728B5E2BAE3EDE7222",
+    "Hash": 2638299806,
+    "SourceString": "Attach",
+    "LocalizedString": "Прикрепить"
+  },
+  {
+    "Namespace": "",
+    "Key": "55920FB8482023B729844387132BC98E",
+    "Hash": 3884547701,
+    "SourceString": "Attach Emergency Balloon",
+    "LocalizedString": "Прикрепить аварийный баллон"
+  },
+  {
+    "Namespace": "",
+    "Key": "070011F24C138A1A207C389F7D3A2BCD",
+    "Hash": 1785936641,
+    "SourceString": "Attach Tool",
+    "LocalizedString": "Прикрепить инструмент"
+  },
+  {
+    "Namespace": "",
+    "Key": "F278F1E84153AA5BA23889B991DEC9C9",
+    "Hash": 3463126581,
+    "SourceString": "Attach Wheel",
+    "LocalizedString": "Прикрепить колесо"
+  },
+  {
+    "Namespace": "",
+    "Key": "A2E547A548B0611E3758F885AD7C87DA",
+    "Hash": 1670338153,
+    "SourceString": "Attach to Drink Holder",
+    "LocalizedString": "Прикрепить к подстаканнику"
+  },
+  {
+    "Namespace": "",
+    "Key": "39991F1F41F22214425211A77FEB4AEF",
+    "Hash": 3832682137,
+    "SourceString": "Attach to GloveBox",
+    "LocalizedString": "Положить в бардачок"
+  },
+  {
+    "Namespace": "",
+    "Key": "CD8D72FC486F190ACD07A6A10BA80417",
+    "Hash": 3433096997,
+    "SourceString": "Attach to Map Holder",
+    "LocalizedString": "Положить в отсек для карты"
+  },
+  {
+    "Namespace": "",
+    "Key": "0A133ABD4C70F250EB10F78296B424DA",
+    "Hash": 3897967703,
+    "SourceString": "Attach to Shelf",
+    "LocalizedString": "Положить на полку"
+  },
+  {
+    "Namespace": "",
+    "Key": "460553BD49C122EA70570DBD743D2559",
+    "Hash": 3897967703,
+    "SourceString": "Attach to Shelf",
+    "LocalizedString": "Положить на полку"
+  },
+  {
+    "Namespace": "",
+    "Key": "A2E63FFF4EBFD9A21A29F398B7BDFF7C",
+    "Hash": 3897967703,
+    "SourceString": "Attach to Shelf",
+    "LocalizedString": "Положить на полку"
+  },
+  {
+    "Namespace": "",
+    "Key": "C0F1F1674D574BAD895654B289D0B37D",
+    "Hash": 3897967703,
+    "SourceString": "Attach to Shelf",
+    "LocalizedString": "Положить на полку"
+  },
+  {
+    "Namespace": "",
+    "Key": "D02031AA486D2905A98CE9BF68DFB8B6",
+    "Hash": 3897967703,
+    "SourceString": "Attach to Shelf",
+    "LocalizedString": "Положить на полку"
+  },
+  {
+    "Namespace": "",
+    "Key": "F2CC7D344C26D61C106D3D9827179CE9",
+    "Hash": 2813906306,
+    "SourceString": "Attach to Tool Rack",
+    "LocalizedString": "Положить на стойку для инструментов"
+  },
+  {
+    "Namespace": "",
+    "Key": "8FA9566444BA195C11B0ACADAC152CFA",
+    "Hash": 2602279653,
+    "SourceString": "Auto",
+    "LocalizedString": "Авто"
+  },
+  {
+    "Namespace": "",
+    "Key": "C8ADA33E42E598C14927BA96F9716040",
+    "Hash": 2602279653,
+    "SourceString": "Auto",
+    "LocalizedString": "Авто"
+  },
+  {
+    "Namespace": "",
+    "Key": "A2AEA28340DFF8AF69C6FF95F36560AE",
+    "Hash": 906562422,
+    "SourceString": "Away",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "198B4FB544AA1B2E407B0582D3D469B8",
+    "Hash": 1154576369,
+    "SourceString": "Back",
+    "LocalizedString": "Назад"
+  },
+  {
+    "Namespace": "",
+    "Key": "507B898549956F005EC65DB283F15D19",
+    "Hash": 1154576369,
+    "SourceString": "Back",
+    "LocalizedString": "Назад"
+  },
+  {
+    "Namespace": "",
+    "Key": "900278C947667B314C55DB91BA64364B",
+    "Hash": 1154576369,
+    "SourceString": "Back",
+    "LocalizedString": "Назад"
+  },
+  {
+    "Namespace": "",
+    "Key": "984732E94780F5598F91ADB1E7F992B6",
+    "Hash": 1308466379,
+    "SourceString": "Balanced",
+    "LocalizedString": "Сбалансированный"
+  },
+  {
+    "Namespace": "",
+    "Key": "6FAD890842534A0F1098BD8BB9EDCC21",
+    "Hash": 2508260,
+    "SourceString": "Ball",
+    "LocalizedString": "Мяч"
+  },
+  {
+    "Namespace": "",
+    "Key": "35C8822E4FD14A7555FF82A787EB7C53",
+    "Hash": 1862883508,
+    "SourceString": "Barrel",
+    "LocalizedString": "Бочка"
+  },
+  {
+    "Namespace": "",
+    "Key": "3801F2F64E725812ED5D07859BB92B88",
+    "Hash": 3934724121,
+    "SourceString": "Bear Spray",
+    "LocalizedString": "Спрей от медведей"
+  },
+  {
+    "Namespace": "",
+    "Key": "E3A003BE4C3E0E6FCFBFEF83960E4F1A",
+    "Hash": 2896774428,
+    "SourceString": "Beer",
+    "LocalizedString": "Пиво"
+  },
+  {
+    "Namespace": "",
+    "Key": "24F3A2FE456174D13A10ECB91BB701EA",
+    "Hash": 848355967,
+    "SourceString": "Beer Nunchaku",
+    "LocalizedString": "Пивное нунчаку"
+  },
+  {
+    "Namespace": "",
+    "Key": "B57786ED490881E84E37B58A845A3EA8",
+    "Hash": 974752024,
+    "SourceString": "Borderless Window",
+    "LocalizedString": "Окно без рамок"
+  },
+  {
+    "Namespace": "",
+    "Key": "6508E03446E24C852BDC078AE62C6B39",
+    "Hash": 3213900372,
+    "SourceString": "Bridging Ladder",
+    "LocalizedString": "Выдвижная лестница"
+  },
+  {
+    "Namespace": "",
+    "Key": "8074166E444355A1B4F6FEAD5406784C",
+    "Hash": 3848249992,
+    "SourceString": "Burger",
+    "LocalizedString": "Бургер"
+  },
+  {
+    "Namespace": "",
+    "Key": "1DAD0D6D4019D2CD21BECB8F5DCAF586",
+    "Hash": 3176739470,
+    "SourceString": "Burger Pack",
+    "LocalizedString": "Упаковка бургеров"
+  },
+  {
+    "Namespace": "",
+    "Key": "ECD3E8C245977EF18B55CD97E056C5F8",
+    "Hash": 1179058319,
+    "SourceString": "Button",
+    "LocalizedString": "Кнопка"
+  },
+  {
+    "Namespace": "",
+    "Key": "B91008DA46C9072F11746BAB284720D0",
+    "Hash": 171668908,
+    "SourceString": "Cabinet",
+    "LocalizedString": "Шкаф"
+  },
+  {
+    "Namespace": "",
+    "Key": "C595705F468A5E1F4DE7F2B556ABCCD9",
+    "Hash": 171668908,
+    "SourceString": "Cabinet",
+    "LocalizedString": "Шкаф"
+  },
+  {
+    "Namespace": "",
+    "Key": "E188ED774CA4B8EA004AA99F1D61F661",
+    "Hash": 171668908,
+    "SourceString": "Cabinet",
+    "LocalizedString": "Шкаф"
+  },
+  {
+    "Namespace": "",
+    "Key": "FEF069C740CCE5C472078D9655E12080",
+    "Hash": 171668908,
+    "SourceString": "Cabinet",
+    "LocalizedString": "Шкаф"
+  },
+  {
+    "Namespace": "",
+    "Key": "CA2F8FF245D9A544A3FAE4B57302A514",
+    "Hash": 3586289773,
+    "SourceString": "Can't attach here{Disabled}",
+    "LocalizedString": "Невозможно прикрепить здесь{Disabled}"
+  },
+  {
+    "Namespace": "",
+    "Key": "18461BD24F1705C34C00DD9D87CBC39F",
+    "Hash": 692381897,
+    "SourceString": "Can't drop here",
+    "LocalizedString": "Нельзя бросить здесь"
+  },
+  {
+    "Namespace": "",
+    "Key": "0F759243451DD724CA2134B31A7F0A62",
+    "Hash": 949252438,
+    "SourceString": "Cancel",
+    "LocalizedString": "Отмена"
+  },
+  {
+    "Namespace": "",
+    "Key": "5A83955F49308BBD1FBADCB28C28BB65",
+    "Hash": 949252438,
+    "SourceString": "Cancel",
+    "LocalizedString": "Отмена"
+  },
+  {
+    "Namespace": "",
+    "Key": "9110DB0D497F37D8F12E7DA5BB8635F2",
+    "Hash": 2238812360,
+    "SourceString": "Cassette - Absolute Calm Episode 1",
+    "LocalizedString": "Кассета — Абсолютное спокойствие, эпизод 1"
+  },
+  {
+    "Namespace": "",
+    "Key": "0BFBD5EE4D07EE3BABAF5B95BA6EC985",
+    "Hash": 3646799282,
+    "SourceString": "Cassette - Absolute Calm Intro",
+    "LocalizedString": "Кассета — Абсолютное спокойствие Вступление"
+  },
+  {
+    "Namespace": "",
+    "Key": "F578D2AF415E8A586480C9AC54ABAA22",
+    "Hash": 3903138377,
+    "SourceString": "Cassette - Alien HarsTyle",
+    "LocalizedString": "Кассета - Чужой ХарсТайл"
+  },
+  {
+    "Namespace": "",
+    "Key": "395B97264BDB9E613CAF1FA23AE7C17E",
+    "Hash": 1595444510,
+    "SourceString": "Cassette - Angel Of Steel",
+    "LocalizedString": "Кассета - Ангел из стали"
+  },
+  {
+    "Namespace": "",
+    "Key": "1010343144E43FB63D684EAF45C55040",
+    "Hash": 2672358317,
+    "SourceString": "Cassette - Arcade Universe",
+    "LocalizedString": "Кассета - Аркадная вселенная"
+  },
+  {
+    "Namespace": "",
+    "Key": "7387D7BA47C729D3B168F9AF264E606F",
+    "Hash": 2297718183,
+    "SourceString": "Cassette - Austin Basement",
+    "LocalizedString": "Кассета - Подвал в Остине"
+  },
+  {
+    "Namespace": "",
+    "Key": "75FBC89F4043F2AC1BEE40B524E5331B",
+    "Hash": 3166356076,
+    "SourceString": "Cassette - Austin Escape",
+    "LocalizedString": "Кассета - Побег из Остина"
+  },
+  {
+    "Namespace": "",
+    "Key": "C74BF13C4C15A7CE925D48A367D7F6CE",
+    "Hash": 645037557,
+    "SourceString": "Cassette - Austin Lesson 1",
+    "LocalizedString": "Кассета - Остин Урок 1"
+  },
+  {
+    "Namespace": "",
+    "Key": "6457F91C48092B8C61DD3C90360D4C86",
+    "Hash": 885510683,
+    "SourceString": "Cassette - Austin Lesson 2",
+    "LocalizedString": "Кассета - Остин Урок 2"
+  },
+  {
+    "Namespace": "",
+    "Key": "8B85EA5440ED5D96434CB9A8FF159185",
+    "Hash": 2356917630,
+    "SourceString": "Cassette - Austin Lesson 3",
+    "LocalizedString": "Кассета - Остин Урок 3"
+  },
+  {
+    "Namespace": "",
+    "Key": "71763ACB41F23A392007BEA9CBFCC5F0",
+    "Hash": 296521159,
+    "SourceString": "Cassette - Austin Lesson 4",
+    "LocalizedString": "Кассета - Остин Урок 4"
+  },
+  {
+    "Namespace": "",
+    "Key": "D13FCC4A4BCE3EEAE1B3D0ABE405C886",
+    "Hash": 2836458146,
+    "SourceString": "Cassette - Austin Lesson 5",
+    "LocalizedString": "Кассета - Остин Урок 5"
+  },
+  {
+    "Namespace": "",
+    "Key": "20DD4225416DC0E04C3AF0AF22C78357",
+    "Hash": 3148170572,
+    "SourceString": "Cassette - Austin Lesson 6",
+    "LocalizedString": "Кассета - Остин Урок 6"
+  },
+  {
+    "Namespace": "",
+    "Key": "E1D42325429E7BC9B251878645808EEB",
+    "Hash": 885421778,
+    "SourceString": "Cassette - Blowtorch Paradise",
+    "LocalizedString": "Кассетно - Паяльный рай"
+  },
+  {
+    "Namespace": "",
+    "Key": "667B901347ABD970A68B6BB03635B09B",
+    "Hash": 3234247299,
+    "SourceString": "Cassette - Emperor",
+    "LocalizedString": "Кассета - Император"
+  },
+  {
+    "Namespace": "",
+    "Key": "0277B8BA41E772217BE504BDD34A900D",
+    "Hash": 1380281010,
+    "SourceString": "Cassette - Eurotrash Anthem",
+    "LocalizedString": "Кассета - Гимн Евротраша"
+  },
+  {
+    "Namespace": "",
+    "Key": "1271FA9949C0ADDD2D1228AF0A599010",
+    "Hash": 2863095820,
+    "SourceString": "Cassette - Fluffington the Third",
+    "LocalizedString": "Кассета — Флаффингтон Третий"
+  },
+  {
+    "Namespace": "",
+    "Key": "FDAD876F429A55F737733C9FDD381A1C",
+    "Hash": 3221996305,
+    "SourceString": "Cassette - Hardbro Bassman",
+    "LocalizedString": "Кассета - Хардбро Бассман"
+  },
+  {
+    "Namespace": "",
+    "Key": "4041FE21416E8F722FA7CD8AD4414D73",
+    "Hash": 3564110468,
+    "SourceString": "Cassette - Las Noches Libres",
+    "LocalizedString": "Кассета — Лас Ночес Либрес"
+  },
+  {
+    "Namespace": "",
+    "Key": "BB6FDF7A4412CE87AA4E059DB8BC9F5D",
+    "Hash": 3172983481,
+    "SourceString": "Cassette - Relax Embrace",
+    "LocalizedString": "Кассета — Релакс Эмбрейс"
+  },
+  {
+    "Namespace": "",
+    "Key": "D0B1407141A8F9868B4BCCA17DA2A800",
+    "Hash": 2080468718,
+    "SourceString": "Cassette - Starsky And Clutch",
+    "LocalizedString": "Кассета — «Старски и Клатч»"
+  },
+  {
+    "Namespace": "",
+    "Key": "F8E9EFC94FFC825C1A73B397066880E1",
+    "Hash": 1955547866,
+    "SourceString": "Cassette - Tiramisu",
+    "LocalizedString": "Кассета - Тирамису"
+  },
+  {
+    "Namespace": "",
+    "Key": "B9666CBD4201BC6FF2008E90822A8414",
+    "Hash": 3801829124,
+    "SourceString": "Cassette - Werewolf",
+    "LocalizedString": "Кассета - Оборотень"
+  },
+  {
+    "Namespace": "",
+    "Key": "7AB7A519440A02B050A9EA8A43A104A3",
+    "Hash": 630466523,
+    "SourceString": "Change Hat",
+    "LocalizedString": "Сменить шляпу"
+  },
+  {
+    "Namespace": "",
+    "Key": "F20903734A3EA11A85673E90D5D28453",
+    "Hash": 1028621381,
+    "SourceString": "Chat",
+    "LocalizedString": "Чат"
+  },
+  {
+    "Namespace": "",
+    "Key": "E481010446AF2AE1953EF487CA2B41EC",
+    "Hash": 3568570704,
+    "SourceString": "Checkpoint",
+    "LocalizedString": "Контрольная точка"
+  },
+  {
+    "Namespace": "",
+    "Key": "BB76B4FE490190EF6023D9901056B0A7",
+    "Hash": 98478552,
+    "SourceString": "Checkpoint 0",
+    "LocalizedString": "Контрольная точка 0"
+  },
+  {
+    "Namespace": "",
+    "Key": "8FA1D77744A70394C611CA99F8152C2B",
+    "Hash": 3709741947,
+    "SourceString": "Checkpoint {CheckpointIndex}",
+    "LocalizedString": "Контрольная точка {CheckpointIndex}"
+  },
+  {
+    "Namespace": "",
+    "Key": "1A97CC6243C979E802D620B1C667FBB6",
+    "Hash": 2266121189,
+    "SourceString": "Chug",
+    "LocalizedString": "Пить"
+  },
+  {
+    "Namespace": "",
+    "Key": "8FED7BB44B890FDE0FBE0595889EEF13",
+    "Hash": 2266121189,
+    "SourceString": "Chug",
+    "LocalizedString": "Пить"
+  },
+  {
+    "Namespace": "",
+    "Key": "D6A29D7343E43F443E0B55994545D09E",
+    "Hash": 2266121189,
+    "SourceString": "Chug",
+    "LocalizedString": "Пить"
+  },
+  {
+    "Namespace": "",
+    "Key": "0A9EAF7F49B6B692D50622B18A969488",
+    "Hash": 3234535688,
+    "SourceString": "Classic Burger",
+    "LocalizedString": "Классический бургер"
+  },
+  {
+    "Namespace": "",
+    "Key": "2BD45FA048F6EE5CF50ACE994F3DF6D2",
+    "Hash": 2131118629,
+    "SourceString": "Close",
+    "LocalizedString": "Закрыть"
+  },
+  {
+    "Namespace": "",
+    "Key": "A46BDC5F4699AEB39CB754A87BEEFB0A",
+    "Hash": 2131118629,
+    "SourceString": "Close",
+    "LocalizedString": "Закрыть"
+  },
+  {
+    "Namespace": "",
+    "Key": "B6124E5845CEDFA15D2F15960B1356E1",
+    "Hash": 2131118629,
+    "SourceString": "Close",
+    "LocalizedString": "Закрыть"
+  },
+  {
+    "Namespace": "",
+    "Key": "BD31B324465810A3CBB95B9B67AE10B4",
+    "Hash": 2131118629,
+    "SourceString": "Close",
+    "LocalizedString": "Закрыть"
+  },
+  {
+    "Namespace": "",
+    "Key": "ED7F5C9845FB801CF01FD0906BE071F0",
+    "Hash": 2131118629,
+    "SourceString": "Close",
+    "LocalizedString": "Закрыть"
+  },
+  {
+    "Namespace": "",
+    "Key": "C6E2C10C49A74405782BF08245907222",
+    "Hash": 3497815785,
+    "SourceString": "Close Door",
+    "LocalizedString": "Закрыть дверь"
+  },
+  {
+    "Namespace": "",
+    "Key": "52B3CA3046C087A815011582889E674F",
+    "Hash": 228507457,
+    "SourceString": "Close Hatch",
+    "LocalizedString": "Закрыть люк"
+  },
+  {
+    "Namespace": "",
+    "Key": "9666DA8A4D5F9D08C128129A2741BDD6",
+    "Hash": 3323583495,
+    "SourceString": "Close Window",
+    "LocalizedString": "Закрыть окно"
+  },
+  {
+    "Namespace": "",
+    "Key": "F03EB4E3448378339306D4A8F04C3ABE",
+    "Hash": 3323583495,
+    "SourceString": "Close Window",
+    "LocalizedString": "Закрыть окно"
+  },
+  {
+    "Namespace": "",
+    "Key": "190F8148410CD5F0507833B4719549F7",
+    "Hash": 3730851665,
+    "SourceString": "Cold Coffee",
+    "LocalizedString": "Холодный кофе"
+  },
+  {
+    "Namespace": "",
+    "Key": "AC41F40849F6227EA0F76980575E30C5",
+    "Hash": 909829054,
+    "SourceString": "Compiling Shaders ({Current}/{Total})",
+    "LocalizedString": "Компиляция шейдеров ({Current}/{Total})"
+  },
+  {
+    "Namespace": "",
+    "Key": "A5D5EE354C8146969518EC9611F01B4B",
+    "Hash": 3249128031,
+    "SourceString": "Continue Ride",
+    "LocalizedString": "Продолжить поездку"
+  },
+  {
+    "Namespace": "",
+    "Key": "8AC19B0B4AD5129E2066A1B8EF17601E",
+    "Hash": 2247747693,
+    "SourceString": "Couldn't join session, already in session",
+    "LocalizedString": "Не удалось присоединиться к сеансу, уже в сеансе"
+  },
+  {
+    "Namespace": "",
+    "Key": "27C1F9B5468BAADCF7FEA4AE64F875EF",
+    "Hash": 2104850848,
+    "SourceString": "Couldn't join session, could not retrieve address",
+    "LocalizedString": "Не удалось присоединиться к сеансу, не удалось получить адрес"
+  },
+  {
+    "Namespace": "",
+    "Key": "4F0041864D3A8AB14F8A83AADC05EB70",
+    "Hash": 1907067319,
+    "SourceString": "Couldn't join session, session doesn't exist anymore",
+    "LocalizedString": "Не удалось присоединиться к сеансу, сеанс больше не существует"
+  },
+  {
+    "Namespace": "",
+    "Key": "B5904B544F2BB55102B6CFAE6A3D337E",
+    "Hash": 1512395820,
+    "SourceString": "Couldn't join session, session is full",
+    "LocalizedString": "Не удалось присоединиться к сеансу, сеанс заполнен"
+  },
+  {
+    "Namespace": "",
+    "Key": "797900664CBAFDFEBD28EE96350BA6A0",
+    "Hash": 1241319233,
+    "SourceString": "Couldn't join session, unknown error",
+    "LocalizedString": "Не удалось присоединиться к сеансу, неизвестная ошибка"
+  },
+  {
+    "Namespace": "",
+    "Key": "77F1B4CA48818AA60BF2E1A809647A89",
+    "Hash": 1475543751,
+    "SourceString": "Crank",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "9251AE8B48E1FAAABF69E3BA64350C67",
+    "Hash": 1475543751,
+    "SourceString": "Crank",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AD1916B341D92A5228E694B888263ED8",
+    "Hash": 1475543751,
+    "SourceString": "Crank",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E44D9D214726AF70C2089295A80D5271",
+    "Hash": 1475543751,
+    "SourceString": "Crank",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "1630A384493EDE7AA9E572814E595580",
+    "Hash": 1515673623,
+    "SourceString": "Crate",
+    "LocalizedString": "Ящик"
+  },
+  {
+    "Namespace": "",
+    "Key": "9C83F7964DC5139EB361F3A93EBD0065",
+    "Hash": 2120986762,
+    "SourceString": "Creating Session...",
+    "LocalizedString": "Создание сеанса..."
+  },
+  {
+    "Namespace": "",
+    "Key": "6ACC9F5F40642A764101B79FD110026B",
+    "Hash": 2619254768,
+    "SourceString": "Credits",
+    "LocalizedString": "Авторы"
+  },
+  {
+    "Namespace": "",
+    "Key": "7BE99C9C4C43EE8E8C0B2FB15156715F",
+    "Hash": 674116147,
+    "SourceString": "Custom",
+    "LocalizedString": "Пользовательский"
+  },
+  {
+    "Namespace": "",
+    "Key": "BB0500AC46C4C57147566B9FAA2450DA",
+    "Hash": 674116147,
+    "SourceString": "Custom",
+    "LocalizedString": "Пользовательский"
+  },
+  {
+    "Namespace": "",
+    "Key": "F993C0B34423FDA7C7E3728ABE6C474F",
+    "Hash": 2938859625,
+    "SourceString": "Dart",
+    "LocalizedString": "Дротик"
+  },
+  {
+    "Namespace": "",
+    "Key": "95A1CE4640860ED48C6707B60A2A32EA",
+    "Hash": 2432253639,
+    "SourceString": "Dart Board",
+    "LocalizedString": "Дартс"
+  },
+  {
+    "Namespace": "",
+    "Key": "B63677E4464A243E0D2F9F9931AC2FD0",
+    "Hash": 1874349770,
+    "SourceString": "Delete Game",
+    "LocalizedString": "Удалить игру"
+  },
+  {
+    "Namespace": "",
+    "Key": "F2D3005846F086CD9FE9BF92DB50DE1E",
+    "Hash": 198618501,
+    "SourceString": "Detract",
+    "LocalizedString": "Убрать"
+  },
+  {
+    "Namespace": "",
+    "Key": "0144D79D4B01B689BC7CB3AE19F33D81",
+    "Hash": 1676546237,
+    "SourceString": "Disposable Grill",
+    "LocalizedString": "Одноразовый гриль"
+  },
+  {
+    "Namespace": "",
+    "Key": "A23247D64204E1FEB9D55582DE51F3B0",
+    "Hash": 599806569,
+    "SourceString": "Do Nothing",
+    "LocalizedString": "Ничего не делать"
+  },
+  {
+    "Namespace": "",
+    "Key": "EF94E3C54490AF6CD7D1A5BABDEAF370",
+    "Hash": 599806569,
+    "SourceString": "Do Nothing",
+    "LocalizedString": "Ничего не делать"
+  },
+  {
+    "Namespace": "",
+    "Key": "283CA3C84A7CA715ADDE81A94E2CBC3A",
+    "Hash": 1516545989,
+    "SourceString": "Do not Disturb",
+    "LocalizedString": "Не беспокоить"
+  },
+  {
+    "Namespace": "",
+    "Key": "0A6A59D840BAC66733643BAF0C8C5C09",
+    "Hash": 222813014,
+    "SourceString": "Do you really want to restart from last checkpoint?",
+    "LocalizedString": "Вы действительно хотите перезапустить с последней контрольной точки?"
+  },
+  {
+    "Namespace": "",
+    "Key": "58CD574D43AD28E50DE0FEBE7CE31197",
+    "Hash": 322017865,
+    "SourceString": "Don't forget to bring your bear spray if you're going hiking with your friends",
+    "LocalizedString": "Не забудьте взять с собой спрей от медведей, если собираетесь в поход с друзьями."
+  },
+  {
+    "Namespace": "",
+    "Key": "FF6ADCC94ABBC67F052EA8A7155F8D05",
+    "Hash": 772795707,
+    "SourceString": "Don't know how to drive stick? Then it's time that you learned!",
+    "LocalizedString": "Не умеете водить машину с механической коробкой передач? Тогда самое время научиться!"
+  },
+  {
+    "Namespace": "",
+    "Key": "9C02F16D4A7BB2E4DA02558A881A45E9",
+    "Hash": 2228213841,
+    "SourceString": "Door",
+    "LocalizedString": "Дверь"
+  },
+  {
+    "Namespace": "",
+    "Key": "C14577144F97C6FB36E9A6B263B84540",
+    "Hash": 2228213841,
+    "SourceString": "Door",
+    "LocalizedString": "Дверь"
+  },
+  {
+    "Namespace": "",
+    "Key": "A8CA98664FEFB846952540ADB3C5F0C7",
+    "Hash": 4155447657,
+    "SourceString": "Dream Burger",
+    "LocalizedString": "Бургер мечты"
+  },
+  {
+    "Namespace": "",
+    "Key": "AD2376EB40F1D2555EE4FAA5C7909C5F",
+    "Hash": 1867115886,
+    "SourceString": "Drill",
+    "LocalizedString": "Дрель"
+  },
+  {
+    "Namespace": "",
+    "Key": "EE60081642A6BBF445C623B625E0D662",
+    "Hash": 4282027783,
+    "SourceString": "Drive",
+    "LocalizedString": "Сесть за руль"
+  },
+  {
+    "Namespace": "",
+    "Key": "C03AF06D497CF1781A377B80CB758D73",
+    "Hash": 1960164038,
+    "SourceString": "Drop - hold to throw",
+    "LocalizedString": "Бросить - удерживайте для \nброска"
+  },
+  {
+    "Namespace": "",
+    "Key": "41B2B4CF40F10D35ED5F159DFBEE9645",
+    "Hash": 722047329,
+    "SourceString": "Eat",
+    "LocalizedString": "Съесть"
+  },
+  {
+    "Namespace": "",
+    "Key": "999AEC3F47238679306134A6AB2EF0C3",
+    "Hash": 109362049,
+    "SourceString": "Eat yellow snow, it might be beer!",
+    "LocalizedString": "Ешьте желтый снег, это может быть пиво!"
+  },
+  {
+    "Namespace": "",
+    "Key": "2EFC57F64CA62F8223684BB99116E177",
+    "Hash": 1681489126,
+    "SourceString": "Effects",
+    "LocalizedString": "Качество эффектов"
+  },
+  {
+    "Namespace": "",
+    "Key": "3ABC23AF4E563B20D918779F69F8F079",
+    "Hash": 1681489126,
+    "SourceString": "Effects",
+    "LocalizedString": "Качество эффектов"
+  },
+  {
+    "Namespace": "",
+    "Key": "979161224CBCC169B1B3C68C408F9E99",
+    "Hash": 4010031271,
+    "SourceString": "Emergency Balloon Pack",
+    "LocalizedString": "Аварийный комплект баллонов"
+  },
+  {
+    "Namespace": "",
+    "Key": "2BAD0AEB43E43B037BBC2AAEB9BFD15E",
+    "Hash": 1003214290,
+    "SourceString": "Empty",
+    "LocalizedString": "Пустой"
+  },
+  {
+    "Namespace": "",
+    "Key": "98106F7049CB009249AC76AA28972482",
+    "Hash": 3198296198,
+    "SourceString": "Empty Beer",
+    "LocalizedString": "Пустая пивная банка"
+  },
+  {
+    "Namespace": "",
+    "Key": "E72CA11B478BCB2C4408A0B2379500C3",
+    "Hash": 2581299856,
+    "SourceString": "Empty Coffee Cup",
+    "LocalizedString": "Пустая кофейная чашка"
+  },
+  {
+    "Namespace": "",
+    "Key": "87E05FE3449CA81F1311E1B67BFC9760",
+    "Hash": 1659987900,
+    "SourceString": "Engine is OFF",
+    "LocalizedString": "Завести"
+  },
+  {
+    "Namespace": "",
+    "Key": "38B8E86345A9A74334F796B2B3EBF8D9",
+    "Hash": 2078089375,
+    "SourceString": "Engine is ON",
+    "LocalizedString": "Заглушить"
+  },
+  {
+    "Namespace": "",
+    "Key": "1500ED7E47E7573DDF73CF8BE4481BDC",
+    "Hash": 961505135,
+    "SourceString": "EpiPen",
+    "LocalizedString": "ЭпиПен"
+  },
+  {
+    "Namespace": "",
+    "Key": "8A0158D649CA01E75325EB8F2B9B1B57",
+    "Hash": 2971868136,
+    "SourceString": "Exit",
+    "LocalizedString": "Выход"
+  },
+  {
+    "Namespace": "",
+    "Key": "F6979EA344DD21FE7BDB5FAC30CCA78A",
+    "Hash": 1603431943,
+    "SourceString": "Exit To Desktop?",
+    "LocalizedString": "Выйти на рабочий стол?"
+  },
+  {
+    "Namespace": "",
+    "Key": "FA153CB8433764B886B714AA6DD37F5F",
+    "Hash": 1603431943,
+    "SourceString": "Exit To Desktop?",
+    "LocalizedString": "Выйти на рабочий стол?"
+  },
+  {
+    "Namespace": "",
+    "Key": "664006C04DB5E269F95C06AB17A6D57C",
+    "Hash": 4280939719,
+    "SourceString": "Exit To Main menu?",
+    "LocalizedString": "Выйти в главное меню?"
+  },
+  {
+    "Namespace": "",
+    "Key": "151001E04A21B1A7729FB48AB61891AA",
+    "Hash": 580061124,
+    "SourceString": "Expand",
+    "LocalizedString": "Развернуть"
+  },
+  {
+    "Namespace": "",
+    "Key": "1AD75F3C46FF27D556D3A0BF4E4BB30F",
+    "Hash": 2629492667,
+    "SourceString": "Extended Away",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CD4E0ED443852B34D9B60E87F64F1150",
+    "Hash": 2560441642,
+    "SourceString": "FLIP-A-TRONIC 2000",
+    "LocalizedString": "ФЛИП-А-ТРОНИК 2000"
+  },
+  {
+    "Namespace": "",
+    "Key": "051327E548EA1E4CA7C5A5908C7B1ABD",
+    "Hash": 108261619,
+    "SourceString": "Failed to accept invite",
+    "LocalizedString": "Не удалось принять приглашение"
+  },
+  {
+    "Namespace": "",
+    "Key": "1EAD906443C73C7CDB5A57B25FC0DDBD",
+    "Hash": 1779601974,
+    "SourceString": "Failed to create session",
+    "LocalizedString": "Не удалось создать сессию"
+  },
+  {
+    "Namespace": "",
+    "Key": "51AE2A174513443F82AF558349BAD447",
+    "Hash": 651264853,
+    "SourceString": "Field of View (FOV)",
+    "LocalizedString": "Угол обзора (FOV)"
+  },
+  {
+    "Namespace": "",
+    "Key": "03DCDDC04AC950AD40C753990CB83FF7",
+    "Hash": 3324121870,
+    "SourceString": "Fire",
+    "LocalizedString": "Огонь"
+  },
+  {
+    "Namespace": "",
+    "Key": "F9E921E74B21AC1378E34A85B17C2986",
+    "Hash": 1723806248,
+    "SourceString": "Fire Extinguisher",
+    "LocalizedString": "Огнетушитель"
+  },
+  {
+    "Namespace": "",
+    "Key": "BB796F184DF85F1E5A4B4BA1915DE715",
+    "Hash": 1263376466,
+    "SourceString": "Fire Up",
+    "LocalizedString": "Зажечь"
+  },
+  {
+    "Namespace": "",
+    "Key": "CDB4D92F48705E959A5F2CA6854CFF6B",
+    "Hash": 1263376466,
+    "SourceString": "Fire Up",
+    "LocalizedString": "Зажечь"
+  },
+  {
+    "Namespace": "",
+    "Key": "89AED457462AF37F0A3C979085D903CB",
+    "Hash": 1897351610,
+    "SourceString": "Flare",
+    "LocalizedString": "Флаер"
+  },
+  {
+    "Namespace": "",
+    "Key": "281734E5478FB56707DF848989A0FEE0",
+    "Hash": 32783383,
+    "SourceString": "Flare Gun",
+    "LocalizedString": "Сигнальный пистолет"
+  },
+  {
+    "Namespace": "",
+    "Key": "A66000F649793A67B9F0A1870E108435",
+    "Hash": 2447322781,
+    "SourceString": "Flare Projectile",
+    "LocalizedString": "Сигнальный снаряд"
+  },
+  {
+    "Namespace": "",
+    "Key": "FF5D26E04D5EE983FED368B8BA600B89",
+    "Hash": 3139020297,
+    "SourceString": "Flip It!",
+    "LocalizedString": "Переверни!"
+  },
+  {
+    "Namespace": "",
+    "Key": "68D4D3414FCB1F567DEAA9B111652901",
+    "Hash": 2928013754,
+    "SourceString": "Foliage",
+    "LocalizedString": "Качество травы"
+  },
+  {
+    "Namespace": "",
+    "Key": "5DF133F5420627977931438D82F839A7",
+    "Hash": 2799545250,
+    "SourceString": "Front Winch Status",
+    "LocalizedString": "Состояние передней лебедки"
+  },
+  {
+    "Namespace": "",
+    "Key": "0C5F19C24340B32EB34A899EB6B5489C",
+    "Hash": 3175956749,
+    "SourceString": "Full Screen Mode",
+    "LocalizedString": "Оконный режим"
+  },
+  {
+    "Namespace": "",
+    "Key": "7787550F4D56B08C217931B7C12DAE9B",
+    "Hash": 3866659450,
+    "SourceString": "Fullscreen",
+    "LocalizedString": "Полный экран"
+  },
+  {
+    "Namespace": "",
+    "Key": "E7D947B84F770E2F6202B8AF0FB61D27",
+    "Hash": 975785762,
+    "SourceString": "Game Name",
+    "LocalizedString": "Название игры"
+  },
+  {
+    "Namespace": "",
+    "Key": "0018B7DA43C79532D2F0D2A5E506134E",
+    "Hash": 438922161,
+    "SourceString": "Game name can't be empty",
+    "LocalizedString": "Название игры не может быть пустым"
+  },
+  {
+    "Namespace": "",
+    "Key": "87DC201844B41EF212F66F838CD95B1C",
+    "Hash": 438922161,
+    "SourceString": "Game name can't be empty",
+    "LocalizedString": "Название игры не может быть пустым"
+  },
+  {
+    "Namespace": "",
+    "Key": "6D60C2E74D8AA44408EF28957D1A1979",
+    "Hash": 521894252,
+    "SourceString": "Gearbox Sensitivity",
+    "LocalizedString": "Чувствительность \nкоробки передач"
+  },
+  {
+    "Namespace": "",
+    "Key": "553ED2284E3E8DA27B07FF912B6BAA99",
+    "Hash": 3820952580,
+    "SourceString": "Global Illumination",
+    "LocalizedString": "Глобальное освещение"
+  },
+  {
+    "Namespace": "",
+    "Key": "ECBCF5CF4EEA7B6EC382BFA4A85D2618",
+    "Hash": 4114334411,
+    "SourceString": "Glove Box",
+    "LocalizedString": "Бардачок"
+  },
+  {
+    "Namespace": "",
+    "Key": "C7BF0C8B4200F60E9DD394BB9B610A29",
+    "Hash": 3235946660,
+    "SourceString": "Grill",
+    "LocalizedString": "Гриль"
+  },
+  {
+    "Namespace": "",
+    "Key": "C308F80B4FE6680C012BB9990AE7826C",
+    "Hash": 3076862720,
+    "SourceString": "Hatch",
+    "LocalizedString": "Люк"
+  },
+  {
+    "Namespace": "",
+    "Key": "4BBEC2FF4BB08E5770CB90ADAA3F2E39",
+    "Hash": 3612367033,
+    "SourceString": "Having problems? Read the vehicles manual",
+    "LocalizedString": "Возникли проблемы? Ознакомьтесь с руководством по эксплуатации автомобиля"
+  },
+  {
+    "Namespace": "",
+    "Key": "70CE64DD44109171C6EE15A4EDDB3AB7",
+    "Hash": 722948773,
+    "SourceString": "Headbob",
+    "LocalizedString": "Покачивание головой"
+  },
+  {
+    "Namespace": "",
+    "Key": "0BBD23EE418DFDF3EEDC2F960F1C7220",
+    "Hash": 546374199,
+    "SourceString": "High",
+    "LocalizedString": "Высокое"
+  },
+  {
+    "Namespace": "",
+    "Key": "32D1604D4BEC9DCB16B44EA6F4611FA9",
+    "Hash": 546374199,
+    "SourceString": "High",
+    "LocalizedString": "Высокое"
+  },
+  {
+    "Namespace": "",
+    "Key": "88EE5246441913C33B8B5884283AA786",
+    "Hash": 546374199,
+    "SourceString": "High",
+    "LocalizedString": "Высокое"
+  },
+  {
+    "Namespace": "",
+    "Key": "C3C3CD384780B4542CB8A6A7075B3625",
+    "Hash": 546374199,
+    "SourceString": "High",
+    "LocalizedString": "Высокое"
+  },
+  {
+    "Namespace": "",
+    "Key": "E1AA6942483F4E87443AA89D54AEDCB5",
+    "Hash": 3382060898,
+    "SourceString": "Hold ",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "8E02E1584A54C295A4B30899E980E8DD",
+    "Hash": 2076295865,
+    "SourceString": "Hold To Talk",
+    "LocalizedString": "Удерживайте, чтобы говорить"
+  },
+  {
+    "Namespace": "",
+    "Key": "CDB7DB7A4E22959D00D99686CF7A05ED",
+    "Hash": 3260420882,
+    "SourceString": "Honk",
+    "LocalizedString": "Гудок"
+  },
+  {
+    "Namespace": "",
+    "Key": "C88629684EB69DF06A8657840C8ACDA0",
+    "Hash": 961233556,
+    "SourceString": "If you are not at full health, eat another burger",
+    "LocalizedString": "Чтобы восстановить здоровье съешьте бургер."
+  },
+  {
+    "Namespace": "",
+    "Key": "1578C9AE43882FC921C6B3A7CDEF6171",
+    "Hash": 2282325663,
+    "SourceString": "In",
+    "LocalizedString": "Закрутить"
+  },
+  {
+    "Namespace": "",
+    "Key": "402BF11D4B1654DB5503739C045AAE24",
+    "Hash": 2898161571,
+    "SourceString": "Insert",
+    "LocalizedString": "Вставить"
+  },
+  {
+    "Namespace": "",
+    "Key": "C903CB114E5FFEA7A214A7B58E35817D",
+    "Hash": 3176956838,
+    "SourceString": "Invert Look",
+    "LocalizedString": "Инверсия"
+  },
+  {
+    "Namespace": "",
+    "Key": "30FC8E624E79FD12C5AC4A8622552E4E",
+    "Hash": 414116215,
+    "SourceString": "Invite Friends",
+    "LocalizedString": "Пригласить друзей"
+  },
+  {
+    "Namespace": "",
+    "Key": "AB401CE5404C109FC561FD8CC96F1913",
+    "Hash": 1475781727,
+    "SourceString": "Is active and {state}\r\nActive Force: {force}",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F06C61224546167CD309E088FE496DD9",
+    "Hash": 920021177,
+    "SourceString": "Is inactive",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "0979495140C93E7046EC53B57F1495D5",
+    "Hash": 2427580212,
+    "SourceString": "Jack Power's POWER POLE",
+    "LocalizedString": "Электродомкрат «Jack Power»"
+  },
+  {
+    "Namespace": "",
+    "Key": "6E895B3D46D91ECEE2B1EBB451A95316",
+    "Hash": 2427580212,
+    "SourceString": "Jack Power's POWER POLE",
+    "LocalizedString": "Электродомкрат «Jack Power»"
+  },
+  {
+    "Namespace": "",
+    "Key": "AA4AF8AD41CAB2A0E395CCAF8FCB4395",
+    "Hash": 393871609,
+    "SourceString": "Jet Fuel",
+    "LocalizedString": "Реактивное топливо"
+  },
+  {
+    "Namespace": "",
+    "Key": "6BE822A04B0B5C8CD9F8EB9832F6D60B",
+    "Hash": 2245505113,
+    "SourceString": "Johnny",
+    "LocalizedString": "Джонни"
+  },
+  {
+    "Namespace": "",
+    "Key": "EF2AC43F4681B75064E70587E3DBE3CE",
+    "Hash": 2028851034,
+    "SourceString": "Join",
+    "LocalizedString": "Присоединиться"
+  },
+  {
+    "Namespace": "",
+    "Key": "CA9300CD4A96A75BDF8D80AD53FC3F11",
+    "Hash": 474824281,
+    "SourceString": "Join Game",
+    "LocalizedString": "Присоединиться к игре"
+  },
+  {
+    "Namespace": "",
+    "Key": "03298F044CE86105D36BB79EA7E756B3",
+    "Hash": 725603060,
+    "SourceString": "Join Options",
+    "LocalizedString": "Варианты \nприсоединения"
+  },
+  {
+    "Namespace": "",
+    "Key": "D408A02C4F644376BE20798D455F574C",
+    "Hash": 1807652190,
+    "SourceString": "Joining online session",
+    "LocalizedString": "Присоединение к онлайн-сессии"
+  },
+  {
+    "Namespace": "",
+    "Key": "3E981F394E533E7ADB3613869489DED2",
+    "Hash": 2678462417,
+    "SourceString": "Kick",
+    "LocalizedString": "Выгнать"
+  },
+  {
+    "Namespace": "",
+    "Key": "00325EDB44A5EFB1B6738E99ED01FD33",
+    "Hash": 215556637,
+    "SourceString": "Land Mine",
+    "LocalizedString": "Мина"
+  },
+  {
+    "Namespace": "",
+    "Key": "FCCB63894C335E2AC119DC9192D6E548",
+    "Hash": 215556637,
+    "SourceString": "Land Mine",
+    "LocalizedString": "Мина"
+  },
+  {
+    "Namespace": "",
+    "Key": "BEACB73446C5F1602A659886EABC6DD6",
+    "Hash": 658427593,
+    "SourceString": "Last time played",
+    "LocalizedString": "Время последнего \nзапуска"
+  },
+  {
+    "Namespace": "",
+    "Key": "D0A2C4854301E346DB545593F09E3D41",
+    "Hash": 667937672,
+    "SourceString": "Left",
+    "LocalizedString": "Покинуть"
+  },
+  {
+    "Namespace": "",
+    "Key": "CEAB6F9F4DCBAE2C89095290AECB087A",
+    "Hash": 3541357052,
+    "SourceString": "Load Game",
+    "LocalizedString": "Загрузить игру"
+  },
+  {
+    "Namespace": "",
+    "Key": "E3002EB84A21D14AB81B8CA48739CCAB",
+    "Hash": 3541357052,
+    "SourceString": "Load Game",
+    "LocalizedString": "Загрузить игру"
+  },
+  {
+    "Namespace": "",
+    "Key": "BA8EEE7C4C6386662B7B9396B4BC5CD5",
+    "Hash": 143338928,
+    "SourceString": "Locked",
+    "LocalizedString": "Заблокировано"
+  },
+  {
+    "Namespace": "",
+    "Key": "CC75365B4C83293D4B5D2C887313262E",
+    "Hash": 3670892299,
+    "SourceString": "Look",
+    "LocalizedString": "Посмотреть"
+  },
+  {
+    "Namespace": "",
+    "Key": "4F89BA0749765320E17794BCB3256D44",
+    "Hash": 18057576,
+    "SourceString": "Lotion",
+    "LocalizedString": "Лосьон"
+  },
+  {
+    "Namespace": "",
+    "Key": "25E9C040439F4F6A791E99AF02B94742",
+    "Hash": 2979993132,
+    "SourceString": "Low",
+    "LocalizedString": "Низкое"
+  },
+  {
+    "Namespace": "",
+    "Key": "7D2CE8AD4008621902F80BB6ECF015A0",
+    "Hash": 2979993132,
+    "SourceString": "Low",
+    "LocalizedString": "Низкое"
+  },
+  {
+    "Namespace": "",
+    "Key": "B7C5464545E8FBBE1E91C7B985764A45",
+    "Hash": 2979993132,
+    "SourceString": "Low",
+    "LocalizedString": "Низкое"
+  },
+  {
+    "Namespace": "",
+    "Key": "C45BCE4D48DA680CE6F634B92FF2CB85",
+    "Hash": 2979993132,
+    "SourceString": "Low",
+    "LocalizedString": "Низкое"
+  },
+  {
+    "Namespace": "",
+    "Key": "D70BC1374767340A6F8B0D8530348BF9",
+    "Hash": 3106614134,
+    "SourceString": "Lumen",
+    "LocalizedString": "Люмен"
+  },
+  {
+    "Namespace": "",
+    "Key": "61B7DB9348CABA99ADF0AC91689AA2C1",
+    "Hash": 835939254,
+    "SourceString": "Make Lethal Moves",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "377054DA45B0BFB6152544B965C8FB64",
+    "Hash": 1036736862,
+    "SourceString": "Manual",
+    "LocalizedString": "Руководство"
+  },
+  {
+    "Namespace": "",
+    "Key": "C716B4314286E3956E80D29E299C0B40",
+    "Hash": 2783558885,
+    "SourceString": "Manual Weather State",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "E21B37184F7FD24ADBB40CB978CADC60",
+    "Hash": 2724688072,
+    "SourceString": "Map",
+    "LocalizedString": "Карта"
+  },
+  {
+    "Namespace": "",
+    "Key": "E97A735A4C6D87C5D13989BC0ECDF157",
+    "Hash": 2724688072,
+    "SourceString": "Map",
+    "LocalizedString": "Карта"
+  },
+  {
+    "Namespace": "",
+    "Key": "E9B8E4394161739CB927B2B839FD5115",
+    "Hash": 2106541984,
+    "SourceString": "Master",
+    "LocalizedString": "Общая громкость"
+  },
+  {
+    "Namespace": "",
+    "Key": "8AFA789F491651BCDEED5A97C3833A50",
+    "Hash": 1034790262,
+    "SourceString": "Max FPS Limit",
+    "LocalizedString": "Максимум кадров \nв секунду"
+  },
+  {
+    "Namespace": "",
+    "Key": "73EE89E74683BF9E245EDCABB9C75AA7",
+    "Hash": 1408574613,
+    "SourceString": "Meat Patty",
+    "LocalizedString": "Мясная котлета"
+  },
+  {
+    "Namespace": "",
+    "Key": "11FB499443917ECFB82272B7AA315207",
+    "Hash": 3469406434,
+    "SourceString": "Medium",
+    "LocalizedString": "Среднее"
+  },
+  {
+    "Namespace": "",
+    "Key": "4020C935415DC1240CF541ACF074BE5B",
+    "Hash": 3469406434,
+    "SourceString": "Medium",
+    "LocalizedString": "Среднее"
+  },
+  {
+    "Namespace": "",
+    "Key": "95FCABCA4E941E8CF851DAA276A841DA",
+    "Hash": 3469406434,
+    "SourceString": "Medium",
+    "LocalizedString": "Среднее"
+  },
+  {
+    "Namespace": "",
+    "Key": "9623C47A4F9C8200848E1FA8C436AA79",
+    "Hash": 3469406434,
+    "SourceString": "Medium",
+    "LocalizedString": "Среднее"
+  },
+  {
+    "Namespace": "",
+    "Key": "5CD9F0A5460A52068D96B2B670287E18",
+    "Hash": 2189531673,
+    "SourceString": "Metallic",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "54422796420157C620E6A3B68E8769CF",
+    "Hash": 3109131664,
+    "SourceString": "Mic Buffer Size (ms)",
+    "LocalizedString": "Размер буфера \nмикрофона (мс)"
+  },
+  {
+    "Namespace": "",
+    "Key": "1A9C229D4D28443C1D692699B1604812",
+    "Hash": 309818426,
+    "SourceString": "Mic Input Gain",
+    "LocalizedString": "Усиление микрофона"
+  },
+  {
+    "Namespace": "",
+    "Key": "B6BCA43C43687DA4BA7434B85E803B31",
+    "Hash": 3373311487,
+    "SourceString": "Mode",
+    "LocalizedString": "Режим"
+  },
+  {
+    "Namespace": "",
+    "Key": "015CE0064C627ECB8B852BBA62F517E1",
+    "Hash": 54528413,
+    "SourceString": "Motor Oil",
+    "LocalizedString": "Моторное масло"
+  },
+  {
+    "Namespace": "",
+    "Key": "D81BC22546C6D79AD172D685F3A82A96",
+    "Hash": 2482515217,
+    "SourceString": "Mouse Sensitivity",
+    "LocalizedString": "Чувствительность \nмыши"
+  },
+  {
+    "Namespace": "",
+    "Key": "C8BF41E5446096BB081191AA70473FB4",
+    "Hash": 1443704350,
+    "SourceString": "Move Seat",
+    "LocalizedString": "Сдвинуть сиденье"
+  },
+  {
+    "Namespace": "",
+    "Key": "657AE64E4F7EAA6E97FE73BE5807E0A2",
+    "Hash": 197390991,
+    "SourceString": "Multiplier of raw audio input (0.5 means that your voice volume is halved and 2 means that your voice volume is doubled)",
+    "LocalizedString": "Мультипликатор необработанного аудиосигнала (0,5 означает, что громкость вашего голоса уменьшается вдвое, а 2 означает, что громкость вашего голоса увеличивается вдвое)"
+  },
+  {
+    "Namespace": "",
+    "Key": "E3AF0C154B2A0B2FC87FFA84C28A4CAC",
+    "Hash": 2627789632,
+    "SourceString": "Music",
+    "LocalizedString": "Громкость музыки"
+  },
+  {
+    "Namespace": "",
+    "Key": "56276BA946977C59B0B1AABEB70B95A7",
+    "Hash": 1694583893,
+    "SourceString": "New Checkpoint Reached {CheckpointIndex}\r\nMap Updated!",
+    "LocalizedString": "Достигнут новый контрольный пункт {CheckpointIndex}\r\nКарта обновлена!"
+  },
+  {
+    "Namespace": "",
+    "Key": "2E8BBAEA4A0B3D44ACFE0F95B1850C8C",
+    "Hash": 829792470,
+    "SourceString": "New Game",
+    "LocalizedString": "Новая игра"
+  },
+  {
+    "Namespace": "",
+    "Key": "5CFDDCC648DC78BBC77C2DAD7CCC28C5",
+    "Hash": 829792470,
+    "SourceString": "New Game",
+    "LocalizedString": "Новая игра"
+  },
+  {
+    "Namespace": "",
+    "Key": "277C8AE242BA184F4845E49AE6A748AD",
+    "Hash": 3378441714,
+    "SourceString": "Next",
+    "LocalizedString": "Далее"
+  },
+  {
+    "Namespace": "",
+    "Key": "4DA487014A930E6FB49413A707FCDCBB",
+    "Hash": 3378441714,
+    "SourceString": "Next",
+    "LocalizedString": "Далее"
+  },
+  {
+    "Namespace": "",
+    "Key": "EF9E87EF48744F8255C30DA94957CDAD",
+    "Hash": 3378441714,
+    "SourceString": "Next",
+    "LocalizedString": "Далее"
+  },
+  {
+    "Namespace": "",
+    "Key": "5A6460284C05BE05EA37DE8CDAAF18C7",
+    "Hash": 459613933,
+    "SourceString": "Next Page",
+    "LocalizedString": "Следующая страница"
+  },
+  {
+    "Namespace": "",
+    "Key": "CCCD01634614254F65CDFA883545A28B",
+    "Hash": 3106558552,
+    "SourceString": "Next Tape",
+    "LocalizedString": "Следующая кассета"
+  },
+  {
+    "Namespace": "",
+    "Key": "CCA53D6440075DA7550F65B49A28037D",
+    "Hash": 4128015119,
+    "SourceString": "No Winch Hook{Disabled}",
+    "LocalizedString": "Нет крюка лебёдки{Disabled}"
+  },
+  {
+    "Namespace": "",
+    "Key": "3C332C7F4886758F344320885592F9E2",
+    "Hash": 2861242633,
+    "SourceString": "NuggetsCan",
+    "LocalizedString": "Наггетсы"
+  },
+  {
+    "Namespace": "",
+    "Key": "038BA7304FF790C95CC13BAC17950BF3",
+    "Hash": 837545741,
+    "SourceString": "Off",
+    "LocalizedString": "Выкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "116E2C014B09F362C13C58A2093E3B4B",
+    "Hash": 837545741,
+    "SourceString": "Off",
+    "LocalizedString": "Выкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "1C3AFAC64BEC65A40BE020AD46004F80",
+    "Hash": 837545741,
+    "SourceString": "Off",
+    "LocalizedString": "Выкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "497BC8434C9FFF5872B43B960F756BB7",
+    "Hash": 837545741,
+    "SourceString": "Off",
+    "LocalizedString": "Выкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "7E19BFC641BD63AEB0090484052AB562",
+    "Hash": 837545741,
+    "SourceString": "Off",
+    "LocalizedString": "Выкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "B36D1BF04ECE53455D7D20B9FA133A02",
+    "Hash": 837545741,
+    "SourceString": "Off",
+    "LocalizedString": "Выкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "DDC64135410B628ECBD76DB1C9D0918C",
+    "Hash": 837545741,
+    "SourceString": "Off",
+    "LocalizedString": "Выкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "EF5BE84F4E64EAD4BB2FA3BFA339BE6E",
+    "Hash": 837545741,
+    "SourceString": "Off",
+    "LocalizedString": "Выкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "3C58E0B14806C1039CA95BA3C43DDF2A",
+    "Hash": 3317214507,
+    "SourceString": "Offline",
+    "LocalizedString": "Офлайн"
+  },
+  {
+    "Namespace": "",
+    "Key": "28D5F78740BBD30324E4DD813BECEA81",
+    "Hash": 1315344152,
+    "SourceString": "On",
+    "LocalizedString": "Вкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "8B5A4D9B46C33B30CEF89FB8FA2088B1",
+    "Hash": 1315344152,
+    "SourceString": "On",
+    "LocalizedString": "Вкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "961D68194B83ACFC904558BF7038F7A6",
+    "Hash": 1315344152,
+    "SourceString": "On",
+    "LocalizedString": "Вкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "C4E888634BC3FEE379F5B68C58EFA172",
+    "Hash": 1315344152,
+    "SourceString": "On",
+    "LocalizedString": "Вкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "E499ACAB45656DA9187CE08238F29F77",
+    "Hash": 1315344152,
+    "SourceString": "On",
+    "LocalizedString": "Вкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "082B58BB42D05801CC51208FF2922FC5",
+    "Hash": 3002416456,
+    "SourceString": "Online",
+    "LocalizedString": "Онлайн"
+  },
+  {
+    "Namespace": "",
+    "Key": "FE1A448D4E7F8AEA5239F5A83EE064F3",
+    "Hash": 3002416456,
+    "SourceString": "Online",
+    "LocalizedString": "Онлайн"
+  },
+  {
+    "Namespace": "",
+    "Key": "06F05B4244F4E92528C96AB45C223DA5",
+    "Hash": 731346318,
+    "SourceString": "Open",
+    "LocalizedString": "Открыть"
+  },
+  {
+    "Namespace": "",
+    "Key": "3124B68649B76337BAD1E2B3D0A4C0E6",
+    "Hash": 731346318,
+    "SourceString": "Open",
+    "LocalizedString": "Открыть"
+  },
+  {
+    "Namespace": "",
+    "Key": "3AC5F6CB43ED087ADC64C6B2031CEDA1",
+    "Hash": 731346318,
+    "SourceString": "Open",
+    "LocalizedString": "Открыть"
+  },
+  {
+    "Namespace": "",
+    "Key": "DFF4CE4F4A00152538D8E5A49841E620",
+    "Hash": 731346318,
+    "SourceString": "Open",
+    "LocalizedString": "Открыть"
+  },
+  {
+    "Namespace": "",
+    "Key": "F810FDAC4105FBDEEA74E6B0907DA935",
+    "Hash": 731346318,
+    "SourceString": "Open",
+    "LocalizedString": "Открыть"
+  },
+  {
+    "Namespace": "",
+    "Key": "54DD9BB1475F16AAD2ABC0A43568DDB6",
+    "Hash": 3017795928,
+    "SourceString": "Open Door",
+    "LocalizedString": "Открыть дверь"
+  },
+  {
+    "Namespace": "",
+    "Key": "D548C73F455CCC2A215410B9FDEEC7D9",
+    "Hash": 498812019,
+    "SourceString": "Open Hatch",
+    "LocalizedString": "Открыть люк"
+  },
+  {
+    "Namespace": "",
+    "Key": "53B679A84147E19843DF8595B6A93FFE",
+    "Hash": 3505303711,
+    "SourceString": "Open Window",
+    "LocalizedString": "Открыть окно"
+  },
+  {
+    "Namespace": "",
+    "Key": "6BBCBCD3402B1824259CB2BA8C562DFA",
+    "Hash": 3505303711,
+    "SourceString": "Open Window",
+    "LocalizedString": "Открыть окно"
+  },
+  {
+    "Namespace": "",
+    "Key": "56B81E234E152BB46CF048910AB88034",
+    "Hash": 3236965722,
+    "SourceString": "Options",
+    "LocalizedString": "Настройки"
+  },
+  {
+    "Namespace": "",
+    "Key": "64C689D84BC14F03D46EDA8B2F0DC316",
+    "Hash": 3236965722,
+    "SourceString": "Options",
+    "LocalizedString": "Настройки"
+  },
+  {
+    "Namespace": "",
+    "Key": "CCC66E7D4604C980E3C4449A7E470BFE",
+    "Hash": 969885393,
+    "SourceString": "Out",
+    "LocalizedString": "Открутить"
+  },
+  {
+    "Namespace": "",
+    "Key": "3B7FC08143EE1602CAA79EA0FA4CEADA",
+    "Hash": 3159058809,
+    "SourceString": "Overall Quality",
+    "LocalizedString": "Общее качество"
+  },
+  {
+    "Namespace": "",
+    "Key": "156A809C4CD2562ABA02E084B39E7A68",
+    "Hash": 774126953,
+    "SourceString": "Overworld",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "CCD59A5640516D0400A5AB8A81189193",
+    "Hash": 1668432036,
+    "SourceString": "Performance",
+    "LocalizedString": "Производительность"
+  },
+  {
+    "Namespace": "",
+    "Key": "12F521594FE78F0C471CC6B4EC39D476",
+    "Hash": 4035780868,
+    "SourceString": "Pick Up",
+    "LocalizedString": "Подобрать"
+  },
+  {
+    "Namespace": "",
+    "Key": "53129A6C4C03BA41B6D97983B018D120",
+    "Hash": 4035780868,
+    "SourceString": "Pick Up",
+    "LocalizedString": "Подобрать"
+  },
+  {
+    "Namespace": "",
+    "Key": "7EF94DE04F54C65DDC8A019F3BCAC27C",
+    "Hash": 4035780868,
+    "SourceString": "Pick Up",
+    "LocalizedString": "Подобрать"
+  },
+  {
+    "Namespace": "",
+    "Key": "8D0BDDDC44DCFC2717FB21A9FE2D41F9",
+    "Hash": 4035780868,
+    "SourceString": "Pick Up",
+    "LocalizedString": "Подобрать"
+  },
+  {
+    "Namespace": "",
+    "Key": "B879E1984B35DD7CF321ADB63251EF0E",
+    "Hash": 4035780868,
+    "SourceString": "Pick Up",
+    "LocalizedString": "Подобрать"
+  },
+  {
+    "Namespace": "",
+    "Key": "F295DEAC4ADFFF186F55B9B495866BE8",
+    "Hash": 4035780868,
+    "SourceString": "Pick Up",
+    "LocalizedString": "Подобрать"
+  },
+  {
+    "Namespace": "",
+    "Key": "AD59D2034999F05A8D227A8B8677119B",
+    "Hash": 681175634,
+    "SourceString": "Pick Up (Already holding item) {Disabled}",
+    "LocalizedString": "Подобрать (Уже держит предмет) {Disabled}"
+  },
+  {
+    "Namespace": "",
+    "Key": "524A0F364A8CB9469DAA9A83DBBA6F21",
+    "Hash": 3707260001,
+    "SourceString": "Ping: ",
+    "LocalizedString": "Пинг: "
+  },
+  {
+    "Namespace": "",
+    "Key": "82020C4C4455BA6E7C06178093CEFF27",
+    "Hash": 2800413536,
+    "SourceString": "Place Winch Pole",
+    "LocalizedString": "Установить лебедку"
+  },
+  {
+    "Namespace": "",
+    "Key": "2EB1133D48C296D78D75E993D7AB31B2",
+    "Hash": 1361334820,
+    "SourceString": "Place and Activate Power Pole",
+    "LocalizedString": "Установить и активировать электродомкрат"
+  },
+  {
+    "Namespace": "",
+    "Key": "7E95144443F205EBCA5AB3AB46165439",
+    "Hash": 1361334820,
+    "SourceString": "Place and Activate Power Pole",
+    "LocalizedString": "Установить и активировать электродомкрат"
+  },
+  {
+    "Namespace": "",
+    "Key": "BBC737224CE4075FEB469AABD578C018",
+    "Hash": 63761803,
+    "SourceString": "Play",
+    "LocalizedString": "Воспроизвести"
+  },
+  {
+    "Namespace": "",
+    "Key": "407860D54E4FBDED3B058184DB76B054",
+    "Hash": 1477467688,
+    "SourceString": "PlayMusic",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "2475FC9F4D15CCF49B3B93A6AD6DD305",
+    "Hash": 1907614693,
+    "SourceString": "Player",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "BADA733C4AE4F491C57EF7B4A1183F0D",
+    "Hash": 2699524281,
+    "SourceString": "Player Username",
+    "LocalizedString": "Имя игрока"
+  },
+  {
+    "Namespace": "",
+    "Key": "E7D5B15C4B6C041BA824C0A96772E754",
+    "Hash": 3619676156,
+    "SourceString": "Player With Löng and Cönfösing Name!",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6F350FE641B580C5966B158A92653596",
+    "Hash": 2089275321,
+    "SourceString": "Player with Löng Name & Symbols",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6F6C40DD4BAFC71C636B9586592C2364",
+    "Hash": 3060118756,
+    "SourceString": "Playtime",
+    "LocalizedString": "Время игры"
+  },
+  {
+    "Namespace": "",
+    "Key": "B48C14DF442C87D028E2DE8AC665411B",
+    "Hash": 2148480758,
+    "SourceString": "Post Process",
+    "LocalizedString": "Постобработка"
+  },
+  {
+    "Namespace": "",
+    "Key": "7E6519D140A2DC891B314F8F70BF9FE9",
+    "Hash": 2496110021,
+    "SourceString": "Power Drill",
+    "LocalizedString": "Гайковёрт"
+  },
+  {
+    "Namespace": "",
+    "Key": "576B669D465775516C1E51B5C40AC782",
+    "Hash": 766292253,
+    "SourceString": "Press Clutch",
+    "LocalizedString": "Сцепление"
+  },
+  {
+    "Namespace": "",
+    "Key": "D086490D48712CFD8C34B48B7AD1E6C3",
+    "Hash": 773947969,
+    "SourceString": "Prev Page",
+    "LocalizedString": "Предыдущая страница"
+  },
+  {
+    "Namespace": "",
+    "Key": "E28F678144C030376725B283E7348293",
+    "Hash": 1791792662,
+    "SourceString": "Previous",
+    "LocalizedString": "Предыдущий"
+  },
+  {
+    "Namespace": "",
+    "Key": "9C0D10604AC4ADD476D751BEA12AFCF0",
+    "Hash": 597835942,
+    "SourceString": "Previous Tape",
+    "LocalizedString": "Предыдущая кассета"
+  },
+  {
+    "Namespace": "",
+    "Key": "1F13F21B41AB5E29EA521F8D3ACA6A09",
+    "Hash": 1858046106,
+    "SourceString": "Pull",
+    "LocalizedString": "Тянуть"
+  },
+  {
+    "Namespace": "",
+    "Key": "62BA0782453033B2AFA46F89A9837AD6",
+    "Hash": 220781024,
+    "SourceString": "Pulling",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "602C04A14C56E85343E62B81EECF6CE4",
+    "Hash": 233489091,
+    "SourceString": "Push To Talk",
+    "LocalizedString": "Удерживайте"
+  },
+  {
+    "Namespace": "",
+    "Key": "DD7C69F7461BD6A01B6C8FAEEE3A0825",
+    "Hash": 233489091,
+    "SourceString": "Push To Talk",
+    "LocalizedString": "Удерживайте"
+  },
+  {
+    "Namespace": "",
+    "Key": "BBED0FDE4C84622F3CB41890A0153D3C",
+    "Hash": 3882954527,
+    "SourceString": "Quality",
+    "LocalizedString": "Качество"
+  },
+  {
+    "Namespace": "",
+    "Key": "18C468814183BE2011402F97F6E17B9F",
+    "Hash": 3110946851,
+    "SourceString": "Quit To Desktop",
+    "LocalizedString": "Выйти на рабочий стол"
+  },
+  {
+    "Namespace": "",
+    "Key": "96864A224F0B4EA3A26177B465A90B58",
+    "Hash": 2736223863,
+    "SourceString": "Quit To Main Menu",
+    "LocalizedString": "Выйти в главное меню"
+  },
+  {
+    "Namespace": "",
+    "Key": "FA439DB54933C663D8900685ADA72F41",
+    "Hash": 811897795,
+    "SourceString": "Ramp",
+    "LocalizedString": "Рампа"
+  },
+  {
+    "Namespace": "",
+    "Key": "A540202A4F0A68DD5D641883F37C9EC9",
+    "Hash": 526210162,
+    "SourceString": "Rear Winch Status",
+    "LocalizedString": "Состояние задней лебедки"
+  },
+  {
+    "Namespace": "",
+    "Key": "E0DDB4504F43B65A89F1C29FD01ED898",
+    "Hash": 3688084289,
+    "SourceString": "Reflections",
+    "LocalizedString": "Качество отражений"
+  },
+  {
+    "Namespace": "",
+    "Key": "0AC72D6343B68974BD7BFDA38C253F99",
+    "Hash": 3890792630,
+    "SourceString": "Release",
+    "LocalizedString": "Расслабить"
+  },
+  {
+    "Namespace": "",
+    "Key": "D17A73024DFBCEDD9D44AC97988DCE6F",
+    "Hash": 694266517,
+    "SourceString": "Release Beer",
+    "LocalizedString": "Достать банку пива"
+  },
+  {
+    "Namespace": "",
+    "Key": "C39F985D4D7CA6E43E6EAE80959E8982",
+    "Hash": 3632155068,
+    "SourceString": "Release Burger",
+    "LocalizedString": "Достать котлету"
+  },
+  {
+    "Namespace": "",
+    "Key": "03A18BC44B0D772B329A41B29F7FDF07",
+    "Hash": 2351981367,
+    "SourceString": "Releasing",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "AFB6539A40045C598C237780F4A35832",
+    "Hash": 2314523048,
+    "SourceString": "Repair (uses Scrap Metal)",
+    "LocalizedString": "Ремонт (исп. металлолом)"
+  },
+  {
+    "Namespace": "",
+    "Key": "C8DF4A7C4C94BE0B087884B4201C6F0D",
+    "Hash": 3416398878,
+    "SourceString": "Repair Engine",
+    "LocalizedString": "Залить в двигатель"
+  },
+  {
+    "Namespace": "",
+    "Key": "5A6613B24D35A2B1C197E09C8B4D3AAF",
+    "Hash": 610835615,
+    "SourceString": "Repair Frame",
+    "LocalizedString": "Ремонт корпуса"
+  },
+  {
+    "Namespace": "",
+    "Key": "76158F7849C610E12132BC94FA1F7AB9",
+    "Hash": 3926022618,
+    "SourceString": "Repair Hammer",
+    "LocalizedString": "Ремонтный молоток"
+  },
+  {
+    "Namespace": "",
+    "Key": "10DABB504E5A337A7BFAF0A0A9645188",
+    "Hash": 3552151376,
+    "SourceString": "Reset Winch",
+    "LocalizedString": "Сбросить лебедку"
+  },
+  {
+    "Namespace": "",
+    "Key": "6761868A4559C9C51B9A82A375FEA3FC",
+    "Hash": 3552151376,
+    "SourceString": "Reset Winch",
+    "LocalizedString": "Сбросить лебедку"
+  },
+  {
+    "Namespace": "",
+    "Key": "6F745D6A49CBB53613A25588BAB59F6E",
+    "Hash": 3936938351,
+    "SourceString": "Reset Winch{Disabled}",
+    "LocalizedString": "Сбросить лебедку{Disabled}"
+  },
+  {
+    "Namespace": "",
+    "Key": "AD521FEE4D0019EF47F6949BAAD6BA42",
+    "Hash": 1486462369,
+    "SourceString": "Resolution",
+    "LocalizedString": "Разрешение"
+  },
+  {
+    "Namespace": "",
+    "Key": "B1097311441B88D441EF55AE36174AA4",
+    "Hash": 1677870112,
+    "SourceString": "Resolution scale",
+    "LocalizedString": "Масштаб разрешения"
+  },
+  {
+    "Namespace": "",
+    "Key": "E4B66C4C46033DDB1730148E61A531D6",
+    "Hash": 2802404767,
+    "SourceString": "Restart from checkpoint",
+    "LocalizedString": "        Перезапуск\n с контрольной точки"
+  },
+  {
+    "Namespace": "",
+    "Key": "F445F5994070D78117B63387160892FF",
+    "Hash": 714268913,
+    "SourceString": "Resume",
+    "LocalizedString": "Продолжить"
+  },
+  {
+    "Namespace": "",
+    "Key": "D3B6C7AE4F92ECD4EEABBB88AB6F825A",
+    "Hash": 2467440213,
+    "SourceString": "Return To Main Menu",
+    "LocalizedString": "Вернуться в главное меню"
+  },
+  {
+    "Namespace": "",
+    "Key": "0BF7DEDD4E8636C789F91A82E0007AFA",
+    "Hash": 733871265,
+    "SourceString": "Reverse",
+    "LocalizedString": "Размотать"
+  },
+  {
+    "Namespace": "",
+    "Key": "AE2C4C5F4B3CCF2EBE5C14BAC11F172E",
+    "Hash": 2013835495,
+    "SourceString": "Revive",
+    "LocalizedString": "Возродить"
+  },
+  {
+    "Namespace": "",
+    "Key": "06D205F545D0CE7EA047C98B3583CF2C",
+    "Hash": 397521589,
+    "SourceString": "Revive Friends",
+    "LocalizedString": "Воскресить друзей"
+  },
+  {
+    "Namespace": "",
+    "Key": "61ABC43041CF527C01A66F928CA2F342",
+    "Hash": 3852745594,
+    "SourceString": "Revive Station",
+    "LocalizedString": "Станция возрождения"
+  },
+  {
+    "Namespace": "",
+    "Key": "BBA8D9A249C2A379730D8A8344C22FC8",
+    "Hash": 1334209577,
+    "SourceString": "Right",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "69AE02404B7B4644C069C5A664057A29",
+    "Hash": 3665628989,
+    "SourceString": "Rightarm",
+    "LocalizedString": "Правая рука"
+  },
+  {
+    "Namespace": "",
+    "Key": "A16FA3FB497E9AE3F4F6FBB3479885F9",
+    "Hash": 3011603164,
+    "SourceString": "Roughness",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "B28A55794370518F70902D809363901F",
+    "Hash": 2562618802,
+    "SourceString": "Saving Game",
+    "LocalizedString": "Сохранение игры"
+  },
+  {
+    "Namespace": "",
+    "Key": "FAD678F6423451A49790149E4C09D1D9",
+    "Hash": 1969006989,
+    "SourceString": "Scrap Metal",
+    "LocalizedString": "Металлолом"
+  },
+  {
+    "Namespace": "",
+    "Key": "5B09C69848A08EF4300E30AA6A8866C9",
+    "Hash": 2415001566,
+    "SourceString": "Shading",
+    "LocalizedString": "Качество затенения"
+  },
+  {
+    "Namespace": "",
+    "Key": "111F9AA749C273E285FD44A25928D866",
+    "Hash": 3695423734,
+    "SourceString": "Shadows",
+    "LocalizedString": "Качество теней"
+  },
+  {
+    "Namespace": "",
+    "Key": "361D797A4C5F55AE38047F9193062052",
+    "Hash": 3696690951,
+    "SourceString": "Show",
+    "LocalizedString": "Показать"
+  },
+  {
+    "Namespace": "",
+    "Key": "AC3030A74E7E8F520A71F386F7847D15",
+    "Hash": 281018840,
+    "SourceString": "Simon Begby",
+    "LocalizedString": "Саймон Бегби"
+  },
+  {
+    "Namespace": "",
+    "Key": "C7169DAF43DB88F7023A94BF59A3427D",
+    "Hash": 3082648810,
+    "SourceString": "Simon made me do it!",
+    "LocalizedString": "Симон заставил меня это сделать!"
+  },
+  {
+    "Namespace": "",
+    "Key": "EDB5E2434272D0B5FAD8AA8580744BF1",
+    "Hash": 3868040529,
+    "SourceString": "Sit Down",
+    "LocalizedString": "Сесть"
+  },
+  {
+    "Namespace": "",
+    "Key": "E82D6C064F995E8E6ADDD1BE20EC5C1F",
+    "Hash": 3750921330,
+    "SourceString": "Soft Burger",
+    "LocalizedString": "Мягкий бургер"
+  },
+  {
+    "Namespace": "",
+    "Key": "BF6AE1F74E9819396C2885AF697DA027",
+    "Hash": 1747140149,
+    "SourceString": "Spray",
+    "LocalizedString": "Распылить"
+  },
+  {
+    "Namespace": "",
+    "Key": "F36884844BD49958BC8377A1E81FBC87",
+    "Hash": 1747140149,
+    "SourceString": "Spray",
+    "LocalizedString": "Распылить"
+  },
+  {
+    "Namespace": "",
+    "Key": "04E988464E62F2DF0C6D568D90B60218",
+    "Hash": 302699599,
+    "SourceString": "Stand Up",
+    "LocalizedString": "Встать"
+  },
+  {
+    "Namespace": "",
+    "Key": "6DA92FB940018022904692862145574D",
+    "Hash": 302699599,
+    "SourceString": "Stand Up",
+    "LocalizedString": "Встать"
+  },
+  {
+    "Namespace": "",
+    "Key": "B69FC0EB41796190019AC78413E46DBE",
+    "Hash": 302699599,
+    "SourceString": "Stand Up",
+    "LocalizedString": "Встать"
+  },
+  {
+    "Namespace": "",
+    "Key": "4C8A788F4F751C2EAB138291B24E5DE7",
+    "Hash": 720763875,
+    "SourceString": "Start Ride",
+    "LocalizedString": "Начать поездку"
+  },
+  {
+    "Namespace": "",
+    "Key": "F9F2632A4A4FFDC2E56818B90B38995F",
+    "Hash": 1217568707,
+    "SourceString": "Stop",
+    "LocalizedString": "Остановить"
+  },
+  {
+    "Namespace": "",
+    "Key": "2C7F39B5433303258D42CA9B9EA1D984",
+    "Hash": 2575745108,
+    "SourceString": "StopMusic",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "F5F41CFB43A8AFC3A9D7229E7DD6C543",
+    "Hash": 4016986701,
+    "SourceString": "Switch",
+    "LocalizedString": ""
+  },
+  {
+    "Namespace": "",
+    "Key": "6923E4EA4AA83C5A6D9C329DD3B4F8E3",
+    "Hash": 3759952089,
+    "SourceString": "TODO List",
+    "LocalizedString": "Список дел"
+  },
+  {
+    "Namespace": "",
+    "Key": "C4E924F74A30E01D050A55BC836705AC",
+    "Hash": 4003096547,
+    "SourceString": "Take Antidote",
+    "LocalizedString": "Вколоть противоядие"
+  },
+  {
+    "Namespace": "",
+    "Key": "DA762B80406B967291827F944E4C5807",
+    "Hash": 1991143997,
+    "SourceString": "Tape Player",
+    "LocalizedString": "Кассетный магнитофон"
+  },
+  {
+    "Namespace": "",
+    "Key": "46F636BB45E96BBF847802BB40364D5F",
+    "Hash": 2853692445,
+    "SourceString": "Tasty Burger",
+    "LocalizedString": "Вкусный бургер"
+  },
+  {
+    "Namespace": "",
+    "Key": "EE4CA24B408C13FC8E523B8AC99692DF",
+    "Hash": 613568679,
+    "SourceString": "Textures",
+    "LocalizedString": "Качество текстур"
+  },
+  {
+    "Namespace": "",
+    "Key": "0A342F4B45C6C93512E364B5238DE5A3",
+    "Hash": 1137926660,
+    "SourceString": "Thank you for playing",
+    "LocalizedString": "Спасибо за игру"
+  },
+  {
+    "Namespace": "",
+    "Key": "F608E49741BA3B427D0A64950F93F691",
+    "Hash": 183355258,
+    "SourceString": "The game name contains illeagal characters",
+    "LocalizedString": "Название игры содержит недопустимые символы"
+  },
+  {
+    "Namespace": "",
+    "Key": "572B561A4CFAA7B4C2D0CE86B7CA0ADF",
+    "Hash": 641307089,
+    "SourceString": "The length of voice that we buffer up before sending it, low values means low latency, but also increases chance for jitter",
+    "LocalizedString": "Длина голоса, которую мы буферизуем перед отправкой. Низкие значения означают низкую задержку, но также увеличивают вероятность джиттера."
+  },
+  {
+    "Namespace": "",
+    "Key": "745A3F884DEC1A73CBE24D8D8F3C2AA5",
+    "Hash": 3012404494,
+    "SourceString": "Time until timeout",
+    "LocalizedString": "Время до таймаута"
+  },
+  {
+    "Namespace": "",
+    "Key": "CD15F85343860C2B51347EA16518BAEF",
+    "Hash": 4076229304,
+    "SourceString": "Toggle Front  - Rear",
+    "LocalizedString": "Переключатель \nПередний - Задний"
+  },
+  {
+    "Namespace": "",
+    "Key": "68C1D2BA4E388A8D2C1307BCEABBAEF7",
+    "Hash": 3698952462,
+    "SourceString": "Toggle Lights",
+    "LocalizedString": "Фары"
+  },
+  {
+    "Namespace": "",
+    "Key": "00E7E4D14E8868BD52A1F28D68902E40",
+    "Hash": 1003228603,
+    "SourceString": "Toggle Park",
+    "LocalizedString": "Ручник"
+  },
+  {
+    "Namespace": "",
+    "Key": "844EE6C34BFC239469E09E84105ABFA4",
+    "Hash": 2813060815,
+    "SourceString": "Toggle To Talk",
+    "LocalizedString": "Вкл/Выкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "A0DD1D2D4A9BB5AF1CE818B06E40C324",
+    "Hash": 2813060815,
+    "SourceString": "Toggle To Talk",
+    "LocalizedString": "Вкл/Выкл"
+  },
+  {
+    "Namespace": "",
+    "Key": "D0AED24F461A86689EB891BF28605105",
+    "Hash": 1457453353,
+    "SourceString": "Two Buns and meat!",
+    "LocalizedString": "Две булочки и мясо!"
+  },
+  {
+    "Namespace": "",
+    "Key": "CD6DC3F647553195A9F08BA510F8137D",
+    "Hash": 2667066748,
+    "SourceString": "UI",
+    "LocalizedString": "Громкость интерфейса"
+  },
+  {
+    "Namespace": "",
+    "Key": "3862298949D66DD362FC619721AC4626",
+    "Hash": 631349998,
+    "SourceString": "Ultra",
+    "LocalizedString": "Ультра"
+  },
+  {
+    "Namespace": "",
+    "Key": "6FA6472447469B4DF25B6B917E3DBAD7",
+    "Hash": 631349998,
+    "SourceString": "Ultra",
+    "LocalizedString": "Ультра"
+  },
+  {
+    "Namespace": "",
+    "Key": "84FAB931404E55DA68290C8C51963DD6",
+    "Hash": 631349998,
+    "SourceString": "Ultra",
+    "LocalizedString": "Ультра"
+  },
+  {
+    "Namespace": "",
+    "Key": "C1995E394A135F64AED964B4A96BED24",
+    "Hash": 631349998,
+    "SourceString": "Ultra",
+    "LocalizedString": "Ультра"
+  },
+  {
+    "Namespace": "",
+    "Key": "931274074FFF78F2CA338DAA7B0BCBED",
+    "Hash": 3191558409,
+    "SourceString": "Ultra Dynamic Sky",
+    "LocalizedString": "Ультрадинамичное небо"
+  },
+  {
+    "Namespace": "",
+    "Key": "014319A449F63DCE9AC297B164407F0F",
+    "Hash": 3136003113,
+    "SourceString": "Ultra Performance",
+    "LocalizedString": "Ультра-производительность"
+  },
+  {
+    "Namespace": "",
+    "Key": "C5A007934DFFCE8F2813FD9DF697B79B",
+    "Hash": 1094684347,
+    "SourceString": "Ultra Quality",
+    "LocalizedString": "Ультра качество"
+  },
+  {
+    "Namespace": "",
+    "Key": "8668704940EF2D5E8AAA61B36221F09D",
+    "Hash": 4046092849,
+    "SourceString": "Use",
+    "LocalizedString": "Использовать"
+  },
+  {
+    "Namespace": "",
+    "Key": "D3AA7136446390B87D9FFC9A00CAE62D",
+    "Hash": 1488017022,
+    "SourceString": "VOIP Mode",
+    "LocalizedString": "Режим микрофона"
+  },
+  {
+    "Namespace": "",
+    "Key": "ACFE11224CCF21EFD084D1A614EA5507",
+    "Hash": 422071190,
+    "SourceString": "Vehicle Destroyed",
+    "LocalizedString": "Автомобиль уничтожен"
+  },
+  {
+    "Namespace": "",
+    "Key": "8957EE89420B7413FB1C6D861BDFEF8F",
+    "Hash": 2021020947,
+    "SourceString": "View Distance",
+    "LocalizedString": "Дальность прорисовки"
+  },
+  {
+    "Namespace": "",
+    "Key": "48A753124F684392DB88738FC5ADEA63",
+    "Hash": 2177459268,
+    "SourceString": "Voice Level",
+    "LocalizedString": "Уровень голоса"
+  },
+  {
+    "Namespace": "",
+    "Key": "FEC9EA70465DED06A26401A7BB5FF18F",
+    "Hash": 4226577951,
+    "SourceString": "Volume Down",
+    "LocalizedString": "Уменьшить громкость"
+  },
+  {
+    "Namespace": "",
+    "Key": "17012CF64562FF60EEF91D9000C37017",
+    "Hash": 3472472609,
+    "SourceString": "Volume Up",
+    "LocalizedString": "Увеличить громкость"
+  },
+  {
+    "Namespace": "",
+    "Key": "F6820DA24D407B7FFA8F7D94F27F8B51",
+    "Hash": 449503800,
+    "SourceString": "WalkieTalkie",
+    "LocalizedString": "Рация"
+  },
+  {
+    "Namespace": "",
+    "Key": "94EF140E40C64C03B074999C87C9BE0E",
+    "Hash": 3863386357,
+    "SourceString": "Welding Machine",
+    "LocalizedString": "Сварочный аппарат"
+  },
+  {
+    "Namespace": "",
+    "Key": "EE0E501141157FB43210619DADB1D0F9",
+    "Hash": 687331737,
+    "SourceString": "Wheel",
+    "LocalizedString": "Колесо"
+  },
+  {
+    "Namespace": "",
+    "Key": "531BBC58467D0D10DDFBB98A7450B0DD",
+    "Hash": 3187700438,
+    "SourceString": "Winch",
+    "LocalizedString": "Лебёдка"
+  },
+  {
+    "Namespace": "",
+    "Key": "ED47F8B0484EA8288CD305BF7E6419C2",
+    "Hash": 2547564443,
+    "SourceString": "Winch Controller",
+    "LocalizedString": "Пульт от лебёдки"
+  },
+  {
+    "Namespace": "",
+    "Key": "DA0242FA49855A1EBBD0EEAA46EC4071",
+    "Hash": 60979883,
+    "SourceString": "Winch Hook",
+    "LocalizedString": "Крюк лебёдки"
+  },
+  {
+    "Namespace": "",
+    "Key": "0DCF07E447BE2331A1C4EBAF1EA92779",
+    "Hash": 4173769642,
+    "SourceString": "Winch Pole",
+    "LocalizedString": "Лебёдка"
+  },
+  {
+    "Namespace": "",
+    "Key": "123924A74106F369B647ABAF64EFBE13",
+    "Hash": 3512886111,
+    "SourceString": "Window",
+    "LocalizedString": "Окно"
+  },
+  {
+    "Namespace": "",
+    "Key": "527317854727FE2896613BB22ECECACC",
+    "Hash": 3512886111,
+    "SourceString": "Window",
+    "LocalizedString": "Окно"
+  },
+  {
+    "Namespace": "",
+    "Key": "D086A5324B000302144FA2A57D925E87",
+    "Hash": 665308689,
+    "SourceString": "Wireless Controller",
+    "LocalizedString": "Беспроводной контроллер"
+  },
+  {
+    "Namespace": "",
+    "Key": "D057762349E4223AD8AB81B29987823B",
+    "Hash": 2791237333,
+    "SourceString": "Wooden Plank",
+    "LocalizedString": "Деревянная доска"
+  },
+  {
+    "Namespace": "",
+    "Key": "F7447C2F46A7CB7D29605D89331CBC88",
+    "Hash": 2791237333,
+    "SourceString": "Wooden Plank",
+    "LocalizedString": "Деревянная доска"
+  },
+  {
+    "Namespace": "",
+    "Key": "FD4AAFCE4F37BFD87FA99099B53ED3AD",
+    "Hash": 2834099016,
+    "SourceString": "You was returned to the main menu as the host kicked you",
+    "LocalizedString": "Вы были возвращены в главное меню, так как хост вас выгнал"
+  },
+  {
+    "Namespace": "",
+    "Key": "D2711186454A0160CC14E3BB96236F52",
+    "Hash": 1242585005,
+    "SourceString": "Zoom",
+    "LocalizedString": "Увеличить"
+  },
+  {
+    "Namespace": "",
+    "Key": "00F2F914418DD701146FB3BDA55A73DF",
+    "Hash": 1675425379,
+    "SourceString": "and Shift - Change Glasses",
+    "LocalizedString": "+ Shift — смена очков"
+  },
+  {
+    "Namespace": "",
+    "Key": "5389361D496DD18DA27854B748FD4B88",
+    "Hash": 2559131068,
+    "SourceString": "{AttachmentText} (Nothing Held) {DisabledText}",
+    "LocalizedString": "{AttachmentText} (Нечего положить) {DisabledText}"
+  },
+  {
+    "Namespace": "",
+    "Key": "59EB528F49486C4B76301195E9E92371",
+    "Hash": 279421906,
+    "SourceString": "{Hours}h {Minutes}min {Seconds}s",
+    "LocalizedString": "{Hours}ч {Minutes}мин {Seconds}с"
+  }
+]
